@@ -3,7 +3,7 @@
         "name": "Driscoll Catholic High School",
         "colors": [
             "#000000",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Albion (Edwards County)": {
@@ -25,7 +25,7 @@
         "name": "Mercer County High School",
         "colors": [
             "#000080",
-            "#C5B358",
+            "#c5b358",
             "#ffffff"
         ]
     },
@@ -33,7 +33,7 @@
         "name": "H.D. Jacobs High School",
         "colors": [
             "#a52a2a",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Alton (Marquette)": {
@@ -82,7 +82,7 @@
     "Antioch": {
         "name": "Antioch Community High School",
         "colors": [
-            "#C41E3A",
+            "#c41e3a",
             "#808080"
         ]
     },
@@ -119,28 +119,28 @@
         "name": "Armstrong High School",
         "colors": [
             "#800080",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Arthur (A.-Lovington)": {
         "name": "Arthur-Lovington High School",
         "colors": [
             "#ff0000",
-            "#C5B358"
+            "#c5b358"
         ]
     },
     "Ashland (A-C Central)": {
         "name": "A-C Central High School",
         "colors": [
             "#000000",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Ashton (A.-Franklin Center)": {
         "name": "Ashton-Franklin Center High School",
         "colors": [
             "#000000",
-            "#FFD700",
+            "#ffd700",
             "#ffffff"
         ]
     },
@@ -154,7 +154,7 @@
     "Athens": {
         "name": "Athens High School",
         "colors": [
-            "#4CBB17",
+            "#4cbb17",
             "#ffffff"
         ]
     },
@@ -162,7 +162,7 @@
         "name": "Atwood-Hammond High School",
         "colors": [
             "#000000",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Auburn": {
@@ -176,7 +176,7 @@
         "name": "Southeastern High School",
         "colors": [
             "#002366",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Aurora (A. Christian)": {
@@ -191,13 +191,13 @@
         "name": "Aurora Central Catholic High School",
         "colors": [
             "#0000ff",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Aurora (Illinois Math and Science Academy)": {
         "name": "Illinois Math and Science Academy",
         "colors": [
-            "#9BDDFF",
+            "#9bddff",
             "#c0c0c0"
         ]
     },
@@ -218,7 +218,7 @@
     "Aurora (Rosary)": {
         "name": "Rosary High School",
         "colors": [
-            "#7851A9",
+            "#7851a9",
             "#ffffff"
         ]
     },
@@ -226,7 +226,7 @@
         "name": "Waubonsie Valley High School",
         "colors": [
             "#008000 ",
-            "#FFD700",
+            "#ffd700",
             "#ffffff"
         ]
     },
@@ -255,14 +255,14 @@
     "Arlington Heights (Christian Liberty Academy)": {
         "name": "Christian Liberty Academy",
         "colors": [
-            "#7851A9",
+            "#7851a9",
             "#ffffff"
         ]
     },
     "Barrington": {
         "name": "Barrington High School",
         "colors": [
-            "#FF2400",
+            "#ff2400",
             "#ffffff",
             "#000000"
         ]
@@ -286,7 +286,7 @@
         "name": "Batavia High School",
         "colors": [
             "#dc143c",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Beardstown": {
@@ -314,13 +314,13 @@
         "name": "Althoff High School",
         "colors": [
             "#000080",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Belleville (East)": {
         "name": "Belleville East High School",
         "colors": [
-            "#9BDDFF",
+            "#9bddff",
             "#000080"
         ]
     },
@@ -328,7 +328,7 @@
         "name": "Governor French Academy",
         "colors": [
             "#000080",
-            "#4CBB17"
+            "#4cbb17"
         ]
     },
     "Belleville (West)": {
@@ -342,7 +342,7 @@
         "name": "Belvidere High School",
         "colors": [
             "#800080",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Bement": {
@@ -377,7 +377,7 @@
         "name": "Civic Memorial High School",
         "colors": [
             "#800080",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Bethany (Okaw Valley)": {
@@ -408,14 +408,14 @@
         "colors": [
             "#0000ff",
             "#ffffff",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Bloomington (H.S.)": {
         "name": "Bloomington High School",
         "colors": [
             "#800080",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Bluffs": {
@@ -436,7 +436,7 @@
         "name": "Webber High School",
         "colors": [
             "#002366",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Bolingbrook": {
@@ -457,7 +457,7 @@
     "Braidwood (Reed-Custer)": {
         "name": "Reed-Custer High School",
         "colors": [
-            "#FFD700",
+            "#ffd700",
             "#000000"
         ]
     },
@@ -471,7 +471,7 @@
     "Breese (Mater Dei)": {
         "name": "Mater Dei High School",
         "colors": [
-            "#9BDDFF",
+            "#9bddff",
             "#ffffff",
             "#000080 "
         ]
@@ -510,7 +510,7 @@
         "name": "Brownstown High School",
         "colors": [
             "#800080",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Brussels": {
@@ -524,21 +524,21 @@
         "name": "Bureau Valley High School",
         "colors": [
             "#000080",
-            "#9BDDFF"
+            "#9bddff"
         ]
     },
     "Buffalo (Tri-City)": {
         "name": "Tri-City High School",
         "colors": [
             "#0000ff",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Buffalo Grove": {
         "name": "Buffalo Grove High School",
         "colors": [
             "#000080",
-            "#CC5500",
+            "#cc5500",
             "#ffffff"
         ]
     },
@@ -568,7 +568,7 @@
         "name": "St. Laurence High School",
         "colors": [
             "#000000",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Burlington (Central)": {
@@ -619,8 +619,8 @@
         "name": "Belvidere North High School",
         "colors": [
             "#000080",
-            "#FF2400",
-            "#C5B358"
+            "#ff2400",
+            "#c5b358"
         ]
     },
     "Bridgeview (Aqsa)": {
@@ -648,7 +648,7 @@
         "name": "Thornton Fractional North High School",
         "colors": [
             "#800080",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Cambridge": {
@@ -662,21 +662,21 @@
         "name": "Trico High School",
         "colors": [
             "#0000ff",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Camp Point (Central)": {
         "name": "Central High School",
         "colors": [
             "#000000",
-            "#C5B358"
+            "#c5b358"
         ]
     },
     "Canton": {
         "name": "Canton High School",
         "colors": [
             "#800080",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Carbondale (H.S.)": {
@@ -689,7 +689,7 @@
     "Carlinville": {
         "name": "Carlinville High School",
         "colors": [
-            "#C41E3A",
+            "#c41e3a",
             "#002366"
         ]
     },
@@ -697,7 +697,7 @@
         "name": "Carlyle High School",
         "colors": [
             "#800080",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Carmi (C.-White County)": {
@@ -711,7 +711,7 @@
         "name": "Glenbard North High School",
         "colors": [
             "#000000",
-            "#CFB53B"
+            "#cfb53b"
         ]
     },
     "Carpentersville (Dundee-Crown)": {
@@ -725,13 +725,13 @@
         "name": "Carrier Mills-Stonefort High School",
         "colors": [
             "#800080",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Carrollton": {
         "name": "Carrollton High School",
         "colors": [
-            "#4CBB17",
+            "#4cbb17",
             "#ffffff"
         ]
     },
@@ -761,7 +761,7 @@
         "name": "Casey-Westfield High School",
         "colors": [
             "#800080",
-            "#FFD700",
+            "#ffd700",
             "#ffffff"
         ]
     },
@@ -776,7 +776,7 @@
     "Centralia (H.S.)": {
         "name": "Centralia High School",
         "colors": [
-            "#C41E3A",
+            "#c41e3a",
             "#ffffff"
         ]
     },
@@ -790,7 +790,7 @@
     "Champaign (Centennial)": {
         "name": "Centennial High School",
         "colors": [
-            "#9BDDFF",
+            "#9bddff",
             "#000080 ",
             "#ffffff"
         ]
@@ -805,8 +805,8 @@
     "Charleston": {
         "name": "Charleston High School",
         "colors": [
-            "#FF2400",
-            "#FFD700"
+            "#ff2400",
+            "#ffd700"
         ]
     },
     "Chatham (Glenwood)": {
@@ -827,7 +827,7 @@
         "name": "Bloom Twp. High School",
         "colors": [
             "#002366",
-            "#C5B358",
+            "#c5b358",
             "#ffffff"
         ]
     },
@@ -836,7 +836,7 @@
         "colors": [
             "#000000",
             "#ffffff",
-            "#CFB53B"
+            "#cfb53b"
         ]
     },
     "Chillicothe (Illinois Valley Central)": {
@@ -893,14 +893,14 @@
         "colors": [
             "#006400",
             "#ffffff",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Clinton": {
         "name": "Clinton High School",
         "colors": [
             "#800000",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Cobden": {
@@ -942,14 +942,14 @@
     "Concord (Triopia)": {
         "name": "Triopia High School",
         "colors": [
-            "#9BDDFF",
+            "#9bddff",
             "#ffffff"
         ]
     },
     "Country Club Hills (Hillcrest)": {
         "name": "Hillcrest High School",
         "colors": [
-            "#9BDDFF",
+            "#9bddff",
             "#000080",
             "#ffffff"
         ]
@@ -958,7 +958,7 @@
         "name": "Cowden-Herrick High School",
         "colors": [
             "#0000ff",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Crescent City (Crescent-Iroquois)": {
@@ -972,14 +972,14 @@
         "name": "Crete-Monee High School",
         "colors": [
             "#0000ff",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Crete (Illinois Lutheran)": {
         "name": "Illinois Lutheran High School",
         "colors": [
             "#000080",
-            "#9BDDFF",
+            "#9bddff",
             "#ffffff"
         ]
     },
@@ -994,7 +994,7 @@
         "name": "South High School",
         "colors": [
             "#008000 ",
-            "#FFD700",
+            "#ffd700",
             "#ffffff"
         ]
     },
@@ -1008,7 +1008,7 @@
     "Cullom (Tri-Point)": {
         "name": "Tri-Point High School",
         "colors": [
-            "#FF2400",
+            "#ff2400",
             "#ffffff",
             "#002366"
         ]
@@ -1024,21 +1024,21 @@
         "name": "Judah Christian High School",
         "colors": [
             "#800080",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Champaign (St. Thomas More)": {
         "name": "The High School of Saint Thomas More",
         "colors": [
-            "#FFD700",
-            "#355E3B"
+            "#ffd700",
+            "#355e3b"
         ]
     },
     "Cahokia (Ft. Bowman Charter)": {
         "name": "Ft. Bowman Charter High School",
         "colors": [
             "#0000ff",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Centralia (Christ Our Rock Lutheran)": {
@@ -1059,7 +1059,7 @@
         "name": "Schlarman Academy",
         "colors": [
             "#002366",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Danville (H.S.)": {
@@ -1073,7 +1073,7 @@
         "name": "Hinsdale South High School",
         "colors": [
             "#000000",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Decatur (Eisenhower)": {
@@ -1135,8 +1135,8 @@
     "Des Plaines (Maine West)": {
         "name": "Maine West High School",
         "colors": [
-            "#9BDDFF",
-            "#FFD700"
+            "#9bddff",
+            "#ffd700"
         ]
     },
     "Dieterich": {
@@ -1150,7 +1150,7 @@
         "name": "Divernon High School",
         "colors": [
             "#0000ff",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Dixon (H.S.)": {
@@ -1163,7 +1163,7 @@
     "Dolton (Thornridge)": {
         "name": "Thornridge High School",
         "colors": [
-            "#9BDDFF",
+            "#9bddff",
             "#808080",
             "#000080 "
         ]
@@ -1180,7 +1180,7 @@
         "name": "Donovan High School",
         "colors": [
             "#000000",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Downers Grove (North)": {
@@ -1194,21 +1194,21 @@
         "name": "Downers Grove South High School",
         "colors": [
             "#000080 ",
-            "#9BDDFF"
+            "#9bddff"
         ]
     },
     "Downs (Tri-Valley)": {
         "name": "Tri-Valley High School",
         "colors": [
             "#0000ff",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Dunlap": {
         "name": "Dunlap High School",
         "colors": [
             "#800000",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Dupo": {
@@ -1235,7 +1235,7 @@
     "Dwight": {
         "name": "Dwight High School",
         "colors": [
-            "#4CBB17",
+            "#4cbb17",
             "#ffffff"
         ]
     },
@@ -1285,7 +1285,7 @@
         "name": "East Peoria High School",
         "colors": [
             "#800000",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "East St. Louis (Sr.)": {
@@ -1299,7 +1299,7 @@
         "name": "Edinburg High School",
         "colors": [
             "#000000",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Edwardsville (H.S.)": {
@@ -1313,7 +1313,7 @@
         "name": "Metro-East Lutheran High School",
         "colors": [
             "#008000 ",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Effingham (H.S.)": {
@@ -1321,7 +1321,7 @@
         "colors": [
             "#ff0000",
             "#ffffff",
-            "#228B22"
+            "#228b22"
         ]
     },
     "Effingham (St. Anthony)": {
@@ -1343,7 +1343,7 @@
         "name": "Eldorado High School",
         "colors": [
             "#800080",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Elgin (E. Academy)": {
@@ -1365,7 +1365,7 @@
         "name": "Elgin High School",
         "colors": [
             "#800000",
-            "#FFFDD0"
+            "#fffdd0"
         ]
     },
     "Elgin (Larkin)": {
@@ -1379,7 +1379,7 @@
         "name": "St. Edward High School",
         "colors": [
             "#008000 ",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Hanover (River Ridge)": {
@@ -1400,7 +1400,7 @@
     "Elk Grove Village (E.G.)": {
         "name": "Elk Grove High School",
         "colors": [
-            "#228B22",
+            "#228b22",
             "#ffd700"
         ]
     },
@@ -1408,7 +1408,7 @@
         "name": "Elverado High School",
         "colors": [
             "#0000ff",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Elmhurst (IC Catholic)": {
@@ -1428,7 +1428,7 @@
     "Elmhurst (York)": {
         "name": "York High School",
         "colors": [
-            "#4CBB17",
+            "#4cbb17",
             "#ffffff"
         ]
     },
@@ -1443,7 +1443,7 @@
         "name": "Elmwood Park High School",
         "colors": [
             "#000000",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Erie": {
@@ -1457,7 +1457,7 @@
     "Eureka": {
         "name": "Eureka High School",
         "colors": [
-            "#4CBB17",
+            "#4cbb17",
             "#ffffff"
         ]
     },
@@ -1465,7 +1465,7 @@
         "name": "Roycemore High School",
         "colors": [
             "#0000ff",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Evanston (Twp.)": {
@@ -1485,7 +1485,7 @@
     "Elgin (Westminster Christian)": {
         "name": "Westminster Christian High School",
         "colors": [
-            "#7851A9",
+            "#7851a9",
             "#ffffff"
         ]
     },
@@ -1500,13 +1500,13 @@
         "name": "Harvest Christian Academy",
         "colors": [
             "#000080 ",
-            "#C5B358"
+            "#c5b358"
         ]
     },
     "Fairbury (Prairie Central)": {
         "name": "Prairie Central High School",
         "colors": [
-            "#9BDDFF",
+            "#9bddff",
             "#000080 ",
             "#ffffff"
         ]
@@ -1536,7 +1536,7 @@
         "name": "Farmington High School",
         "colors": [
             "#800080",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Fisher": {
@@ -1570,7 +1570,7 @@
     "Flossmoor (Homewood-F.)": {
         "name": "Homewood-Flossmoor High School",
         "colors": [
-            "#FF2400",
+            "#ff2400",
             "#ffffff"
         ]
     },
@@ -1600,7 +1600,7 @@
         "name": "Aquin High School",
         "colors": [
             "#0000ff",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Freeburg": {
@@ -1628,7 +1628,7 @@
     "Fulton (H.S.)": {
         "name": "Fulton High School",
         "colors": [
-            "#FF2400",
+            "#ff2400",
             "#000000"
         ]
     },
@@ -1642,13 +1642,13 @@
         "name": "Lincoln-Way North High School",
         "colors": [
             "#000000",
-            "#C5B358"
+            "#c5b358"
         ]
     },
     "Forsyth (Decatur Christian)": {
         "name": "Decatur Christian School",
         "colors": [
-            "#7851A9"
+            "#7851a9"
         ]
     },
     "Frankfort (Lincoln-Way East)": {
@@ -1677,7 +1677,7 @@
         "name": "Galesburg High School",
         "colors": [
             "#c0c0c0",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Galva": {
@@ -1697,7 +1697,7 @@
     "Geneseo": {
         "name": "Geneseo High School",
         "colors": [
-            "#4CBB17",
+            "#4cbb17",
             "#ffffff"
         ]
     },
@@ -1719,7 +1719,7 @@
         "name": "Georgetown-Ridge Farm High School",
         "colors": [
             "#800080",
-            "#FFD700",
+            "#ffd700",
             "#ffffff"
         ]
     },
@@ -1771,13 +1771,13 @@
         "name": "Glenbrook South High School",
         "colors": [
             "#000080 ",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Glen Ellyn (Glenbard West)": {
         "name": "Glenbard West High School",
         "colors": [
-            "#228B22",
+            "#228b22",
             "#ffffff"
         ]
     },
@@ -1792,7 +1792,7 @@
         "name": "Goreville High School",
         "colors": [
             "#000000",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Granite City": {
@@ -1807,14 +1807,14 @@
         "name": "Grant Park High School",
         "colors": [
             "#008000 ",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Granville (Putnam County)": {
         "name": "Putnam County High School",
         "colors": [
             "#000000",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Grayslake (Central)": {
@@ -1863,21 +1863,21 @@
         "name": "Warren Township High School",
         "colors": [
             "#002366",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Galena (Tri-State Christian)": {
         "name": "Tri-State Christian School",
         "colors": [
             "#0000ff",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Grayslake (North)": {
         "name": "Grayslake North High School",
         "colors": [
             "#000000",
-            "#C5B358"
+            "#c5b358"
         ]
     },
     "Hamilton": {
@@ -1920,7 +1920,7 @@
         "name": "Harvard High School",
         "colors": [
             "#000000",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Harvey (Thornton)": {
@@ -1940,7 +1940,7 @@
     "Hebron (Alden-H.)": {
         "name": "Alden-Hebron High School",
         "colors": [
-            "#4CBB17",
+            "#4cbb17",
             "#ffffff",
             "#000000"
         ]
@@ -1962,7 +1962,7 @@
     "Herscher": {
         "name": "Herscher High School",
         "colors": [
-            "#FFD700",
+            "#ffd700",
             "#000000"
         ]
     },
@@ -2019,7 +2019,7 @@
         "name": "Conant High School",
         "colors": [
             "#000080 ",
-            "#FF2400",
+            "#ff2400",
             "#ffffff"
         ]
     },
@@ -2041,7 +2041,7 @@
         "name": "Shiloh High School",
         "colors": [
             "#002366",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Huntley": {
@@ -2062,7 +2062,7 @@
     "Jacksonville (H.S.)": {
         "name": "Jacksonville High School",
         "colors": [
-            "#FF2400",
+            "#ff2400",
             "#ffffff"
         ]
     },
@@ -2078,7 +2078,7 @@
         "name": "Illinois School for the Visually Impaired",
         "colors": [
             "#800000",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Jacksonville (Routt)": {
@@ -2086,13 +2086,13 @@
         "colors": [
             "#800080",
             "#ffffff",
-            "#C5B358"
+            "#c5b358"
         ]
     },
     "Jerseyville (Jersey)": {
         "name": "Jersey Community High School",
         "colors": [
-            "#9BDDFF",
+            "#9bddff",
             "#ffffff"
         ]
     },
@@ -2100,7 +2100,7 @@
         "name": "Johnsburg High School",
         "colors": [
             "#002366",
-            "#D9D919"
+            "#d9d919"
         ]
     },
     "Johnston City": {
@@ -2113,14 +2113,14 @@
     "Joliet (Central)": {
         "name": "Joliet Central High School",
         "colors": [
-            "#7851A9",
-            "#FFD700"
+            "#7851a9",
+            "#ffd700"
         ]
     },
     "Joliet (Catholic Academy)": {
         "name": "Joliet Catholic Academy",
         "colors": [
-            "#9BDDFF",
+            "#9bddff",
             "#a52a2a",
             "#ffffff"
         ]
@@ -2128,16 +2128,16 @@
     "Joppa (J.-Maple Grove)": {
         "name": "Joppa-Maple Grove High School",
         "colors": [
-            "#4CBB17",
-            "#FFD700",
+            "#4cbb17",
+            "#ffd700",
             "#ffffff"
         ]
     },
     "Joy (Westmer)": {
         "name": "Westmer High School",
         "colors": [
-            "#9BDDFF",
-            "#FF2400"
+            "#9bddff",
+            "#ff2400"
         ]
     },
     "Junction (Gallatin County)": {
@@ -2152,7 +2152,7 @@
         "name": "Joliet West High School",
         "colors": [
             "#000000",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Jacksonville (Westfair Christian Academy)": {
@@ -2171,7 +2171,7 @@
     "Kankakee (Sr.)": {
         "name": "Kankakee High School",
         "colors": [
-            "#9BDDFF",
+            "#9bddff",
             "#800000"
         ]
     },
@@ -2192,7 +2192,7 @@
     "Kewanee (Wethersfield)": {
         "name": "Wethersfield High School",
         "colors": [
-            "#4CBB17",
+            "#4cbb17",
             "#ffffff"
         ]
     },
@@ -2214,28 +2214,28 @@
         "name": "Hiawatha High School",
         "colors": [
             "#000080 ",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Knoxville": {
         "name": "Knoxville High School",
         "colors": [
             "#000080",
-            "#CFB53B"
+            "#cfb53b"
         ]
     },
     "LaGrange (Lyons)": {
         "name": "Lyons Township High School",
         "colors": [
             "#002366",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "LaHarpe": {
         "name": "LaHarpe High School",
         "colors": [
             "#800080",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Lake Forest (L.F. Academy)": {
@@ -2248,7 +2248,7 @@
     "LaGrange Park (Nazareth Academy)": {
         "name": "Nazareth Academy",
         "colors": [
-            "#9BDDFF",
+            "#9bddff",
             "#000080 ",
             "#ffffff"
         ]
@@ -2257,7 +2257,7 @@
         "name": "Lake Forest High School",
         "colors": [
             "#002366",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Lake Forest (Woodlands Academy)": {
@@ -2300,7 +2300,7 @@
         "name": "Luther East High School",
         "colors": [
             "#000000",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Lansing (Thornton Fractional South)": {
@@ -2334,7 +2334,7 @@
     "Leland": {
         "name": "Leland High School",
         "colors": [
-            "#4CBB17",
+            "#4cbb17",
             "#ffffff",
             "#000000"
         ]
@@ -2343,7 +2343,7 @@
         "name": "Lemont High School",
         "colors": [
             "#000080 ",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Lemont (Mt. Assisi Academy)": {
@@ -2357,21 +2357,21 @@
         "name": "Lena-Winslow High School",
         "colors": [
             "#000000",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "LeRoy": {
         "name": "LeRoy High School",
         "colors": [
             "#800000",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Lewistown": {
         "name": "Lewistown High School",
         "colors": [
-            "#FF2400",
-            "#9BDDFF"
+            "#ff2400",
+            "#9bddff"
         ]
     },
     "Lexington": {
@@ -2405,8 +2405,8 @@
     "Lincolnshire (Stevenson)": {
         "name": "Stevenson High School",
         "colors": [
-            "#228B22",
-            "#FFD700"
+            "#228b22",
+            "#ffd700"
         ]
     },
     "Lisle (Benet Academy)": {
@@ -2435,7 +2435,7 @@
         "colors": [
             "#800000",
             "#ffffff",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Lombard (Glenbard East)": {
@@ -2450,7 +2450,7 @@
         "name": "Montini Catholic High School",
         "colors": [
             "#800000",
-            "#FFD700",
+            "#ffd700",
             "#ffffff"
         ]
     },
@@ -2464,7 +2464,7 @@
     "Louisville (North Clay)": {
         "name": "North Clay High School",
         "colors": [
-            "#FF2400",
+            "#ff2400",
             "#000000"
         ]
     },
@@ -2472,14 +2472,14 @@
         "name": "Lovejoy High School",
         "colors": [
             "#002366",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Lovington": {
         "name": "Lovington High School",
         "colors": [
             "#800080",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Lombard (College Prep)": {
@@ -2579,7 +2579,7 @@
         "name": "Marion High School",
         "colors": [
             "#000080",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Marissa": {
@@ -2593,7 +2593,7 @@
         "name": "Maroa-Forsyth High School",
         "colors": [
             "#002366",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Marshall": {
@@ -2621,14 +2621,14 @@
         "name": "Illini Central High School",
         "colors": [
             "#000000",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Mattoon": {
         "name": "Mattoon High School",
         "colors": [
             "#008000 ",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Maywood (Proviso East)": {
@@ -2648,7 +2648,7 @@
     "McLeansboro (Hamilton County)": {
         "name": "Hamilton County High School",
         "colors": [
-            "#4CBB17",
+            "#4cbb17",
             "#ffffff"
         ]
     },
@@ -2664,14 +2664,14 @@
         "colors": [
             "#800000",
             "#ffffff",
-            "#9BDDFF"
+            "#9bddff"
         ]
     },
     "Mendota": {
         "name": "Mendota High School",
         "colors": [
             "#800080",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Meredosia (M.-Chambersburg)": {
@@ -2741,7 +2741,7 @@
     "Momence": {
         "name": "Momence High School",
         "colors": [
-            "#DE3163",
+            "#de3163",
             "#ffffff"
         ]
     },
@@ -2765,14 +2765,14 @@
         "name": "Yorkwood High School",
         "colors": [
             "#800080",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Monticello": {
         "name": "Monticello High School",
         "colors": [
             "#800080",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Mooseheart": {
@@ -2792,7 +2792,7 @@
     "Morrisonville": {
         "name": "Morrisonville High School",
         "colors": [
-            "#FF2400",
+            "#ff2400",
             "#808080"
         ]
     },
@@ -2806,14 +2806,14 @@
     "Morton": {
         "name": "Morton High School",
         "colors": [
-            "#DE3163",
+            "#de3163",
             "#808080"
         ]
     },
     "Mounds (Meridian)": {
         "name": "Meridian High School",
         "colors": [
-            "#FF2400",
+            "#ff2400",
             "#ffffff",
             "#808080"
         ]
@@ -2821,7 +2821,7 @@
     "Mt. Carmel": {
         "name": "Mt. Carmel High School",
         "colors": [
-            "#FFD700",
+            "#ffd700",
             "#800000"
         ]
     },
@@ -2829,29 +2829,29 @@
         "name": "Mt. Olive High School",
         "colors": [
             "#800080",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Mt. Prospect (Prospect)": {
         "name": "Prospect High School",
         "colors": [
             "#000080",
-            "#9BDDFF"
+            "#9bddff"
         ]
     },
     "Mt. Pulaski": {
         "name": "Mt. Pulaski High School",
         "colors": [
             "#800080",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Mt. Sterling (Brown County)": {
         "name": "Brown County High School",
         "colors": [
-            "#4CBB17",
+            "#4cbb17",
             "#ffffff",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Mt. Vernon (H.S.)": {
@@ -2887,14 +2887,14 @@
         "name": "Carmel Catholic High School",
         "colors": [
             "#a52a2a",
-            "#FFD700",
+            "#ffd700",
             "#ffffff"
         ]
     },
     "Mundelein (H.S.)": {
         "name": "Mundelein High School",
         "colors": [
-            "#FF2400",
+            "#ff2400",
             "#808080"
         ]
     },
@@ -2902,7 +2902,7 @@
         "name": "Murphysboro High School",
         "colors": [
             "#dc143c",
-            "#FBEC5D"
+            "#fbec5d"
         ]
     },
     "Deerfield (Chicagoland Jewish)": {
@@ -2965,7 +2965,7 @@
         "name": "New Athens High School",
         "colors": [
             "#800080",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "New Berlin": {
@@ -2985,7 +2985,7 @@
     "New Lenox (Providence Catholic)": {
         "name": "Providence Catholic High School",
         "colors": [
-            "#4CBB17",
+            "#4cbb17",
             "#ffffff"
         ]
     },
@@ -2999,7 +2999,7 @@
     "Newton": {
         "name": "Newton High School",
         "colors": [
-            "#CC5500",
+            "#cc5500",
             "#002366"
         ]
     },
@@ -3008,14 +3008,14 @@
         "colors": [
             "#000080",
             "#c0c0c0",
-            "#9BDDFF"
+            "#9bddff"
         ]
     },
     "Niles (Northridge Prep)": {
         "name": "Northridge Prep High School",
         "colors": [
             "#800000",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Niles (Notre Dame)": {
@@ -3036,7 +3036,7 @@
     "Noble (West Richland)": {
         "name": "West Richland High School",
         "colors": [
-            "#FFD700",
+            "#ffd700",
             "#000000"
         ]
     },
@@ -3065,20 +3065,20 @@
         "name": "University High School",
         "colors": [
             "#008000 ",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Norridge (Ridgewood)": {
         "name": "Ridgewood High School",
         "colors": [
-            "#4CBB17",
+            "#4cbb17",
             "#ffffff"
         ]
     },
     "Norris City (N.C.-Omaha-Enfield)": {
         "name": "Norris City-Omaha-Enfield High School",
         "colors": [
-            "#C41E3A",
+            "#c41e3a",
             "#ffffff"
         ]
     },
@@ -3093,21 +3093,21 @@
         "name": "Glenbrook North High School",
         "colors": [
             "#006400",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Naperville (Neuqua Valley)": {
         "name": "Neuqua Valley High School",
         "colors": [
             "#000080 ",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Franklin Park-Northlake (Leyden)": {
         "name": "Leyden High School",
         "colors": [
             "#0000ff",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Plainfield (Christ Lutheran Academy)": {
@@ -3142,20 +3142,20 @@
         "name": "Oak Forest High School",
         "colors": [
             "#000000",
-            "#C5B358"
+            "#c5b358"
         ]
     },
     "Oak Lawn (Community)": {
         "name": "Oak Lawn Community High School",
         "colors": [
-            "#4CBB17",
+            "#4cbb17",
             "#ffffff"
         ]
     },
     "Oak Lawn (Richards)": {
         "name": "Richards High School",
         "colors": [
-            "#C5B358",
+            "#c5b358",
             "#000000",
             "#ffffff"
         ]
@@ -3185,7 +3185,7 @@
         "name": "Oblong High School",
         "colors": [
             "#002366",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Odin": {
@@ -3200,14 +3200,14 @@
         "name": "O'Fallon High School",
         "colors": [
             "#0000ff",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Ohio": {
         "name": "Ohio High School",
         "colors": [
             "#800080",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Okawville": {
@@ -3228,13 +3228,13 @@
         "name": "Rich Central High School",
         "colors": [
             "#ff0000",
-            "#9BDDFF"
+            "#9bddff"
         ]
     },
     "Oneida (ROWVA)": {
         "name": "ROWVA High School",
         "colors": [
-            "#FFD700",
+            "#ffd700",
             "#ffffff"
         ]
     },
@@ -3242,7 +3242,7 @@
         "name": "Orangeville High School",
         "colors": [
             "#800080",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Oregon": {
@@ -3255,7 +3255,7 @@
     "Orion": {
         "name": "Orion High School",
         "colors": [
-            "#FF2400",
+            "#ff2400",
             "#000000"
         ]
     },
@@ -3263,7 +3263,7 @@
         "name": "Carl Sandburg High School",
         "colors": [
             "#002366",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Oswego (H.S.)": {
@@ -3277,7 +3277,7 @@
         "name": "Marquette High School",
         "colors": [
             "#0000ff",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Ottawa (Twp.)": {
@@ -3304,14 +3304,14 @@
     "Palatine (Fremd)": {
         "name": "Fremd High School",
         "colors": [
-            "#228B22",
-            "#FFD700"
+            "#228b22",
+            "#ffd700"
         ]
     },
     "Palatine (H.S.)": {
         "name": "Palatine High School",
         "colors": [
-            "#FF2400",
+            "#ff2400",
             "#808080"
         ]
     },
@@ -3325,8 +3325,8 @@
     "Palmyra (Northwestern)": {
         "name": "Northwestern High School",
         "colors": [
-            "#4CBB17",
-            "#FFD700"
+            "#4cbb17",
+            "#ffd700"
         ]
     },
     "Palos Heights (Chicago Christian)": {
@@ -3348,7 +3348,7 @@
         "name": "Stagg High School",
         "colors": [
             "#000080",
-            "#CC5500"
+            "#cc5500"
         ]
     },
     "Pana (H.S.)": {
@@ -3369,7 +3369,7 @@
         "name": "Rich East High School",
         "colors": [
             "#008000 ",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Park Ridge (Maine East)": {
@@ -3383,7 +3383,7 @@
         "name": "Paw Paw High School",
         "colors": [
             "#800080",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Park Ridge (Maine South)": {
@@ -3398,7 +3398,7 @@
         "name": "Patoka High School",
         "colors": [
             "#008000 ",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Pawnee": {
@@ -3413,7 +3413,7 @@
         "name": "Paxton-Buckley-Loda High School",
         "colors": [
             "#0000ff",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Payson (Seymour)": {
@@ -3435,7 +3435,7 @@
         "name": "Pecatonica High School",
         "colors": [
             "#800080",
-            "#C5B358"
+            "#c5b358"
         ]
     },
     "Pekin": {
@@ -3464,13 +3464,13 @@
         "colors": [
             "#000080 ",
             "#ffffff",
-            "#4CBB17"
+            "#4cbb17"
         ]
     },
     "Peoria (Richwoods)": {
         "name": "Richwoods High School",
         "colors": [
-            "#228B22",
+            "#228b22",
             "#ffffff"
         ]
     },
@@ -3478,7 +3478,7 @@
         "name": "Woodruff High School",
         "colors": [
             "#0000ff",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Peoria Heights": {
@@ -3499,7 +3499,7 @@
     "Peru (St. Bede)": {
         "name": "St. Bede Academy",
         "colors": [
-            "#228B22",
+            "#228b22",
             "#ffffff"
         ]
     },
@@ -3513,14 +3513,14 @@
     "Piasa (Southwestern)": {
         "name": "Southwestern High School",
         "colors": [
-            "#4CBB17",
-            "#FFD700"
+            "#4cbb17",
+            "#ffd700"
         ]
     },
     "Pinckneyville": {
         "name": "Pinckneyville High School",
         "colors": [
-            "#9BDDFF",
+            "#9bddff",
             "#ffffff"
         ]
     },
@@ -3534,7 +3534,7 @@
     "Plainfield (Central)": {
         "name": "Plainfield Central High School",
         "colors": [
-            "#228B22",
+            "#228b22",
             "#ffffff"
         ]
     },
@@ -3549,7 +3549,7 @@
         "name": "Pleasant Hill High School",
         "colors": [
             "#0000ff",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Pleasant Plains": {
@@ -3563,7 +3563,7 @@
         "name": "Polo High School",
         "colors": [
             "#0000ff",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Pontiac": {
@@ -3591,7 +3591,7 @@
         "name": "Riverdale High School",
         "colors": [
             "#000000",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Princeville": {
@@ -3620,7 +3620,7 @@
         "name": "Peoria Christian High School",
         "colors": [
             "#800080",
-            "#FFD700",
+            "#ffd700",
             "#ffffff"
         ]
     },
@@ -3649,7 +3649,7 @@
         "name": "Quincy Notre Dame High School",
         "colors": [
             "#000080 ",
-            "#C5B358",
+            "#c5b358",
             "#ffffff"
         ]
     },
@@ -3671,7 +3671,7 @@
         "name": "Rantoul High School",
         "colors": [
             "#800080",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Raymond (Lincolnwood)": {
@@ -3692,7 +3692,7 @@
         "name": "Richmond-Burton High School",
         "colors": [
             "#800000",
-            "#FFD700",
+            "#ffd700",
             "#ffffff"
         ]
     },
@@ -3715,7 +3715,7 @@
         "name": "Guerin College Preparatory High School",
         "colors": [
             "#002366",
-            "#32CD32",
+            "#32cd32",
             "#c0c0c0"
         ]
     },
@@ -3779,7 +3779,7 @@
         "name": "Rock Island High School",
         "colors": [
             "#dc143c",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Rockford (Auburn)": {
@@ -3814,7 +3814,7 @@
     "Rockford (Guilford)": {
         "name": "Guilford High School",
         "colors": [
-            "#9BDDFF",
+            "#9bddff",
             "#ffffff"
         ]
     },
@@ -3823,7 +3823,7 @@
         "colors": [
             "#ff0000",
             "#ffffff",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Rockford (Lutheran)": {
@@ -3837,7 +3837,7 @@
         "name": "Hononegah High School",
         "colors": [
             "#800080",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Rolling Meadows": {
@@ -3845,7 +3845,7 @@
         "colors": [
             "#800080",
             "#ffffff",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Romeoville (H.S.)": {
@@ -3867,14 +3867,14 @@
         "name": "Round Lake High School",
         "colors": [
             "#000080 ",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Roxana": {
         "name": "Roxana High School",
         "colors": [
             "#ff0000",
-            "#FFD700",
+            "#ffd700",
             "#0000ff"
         ]
     },
@@ -3882,14 +3882,14 @@
         "name": "Rushville-Industry High School",
         "colors": [
             "#800080",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Rockford (R. Christian)": {
         "name": "Rockford Christian High School",
         "colors": [
             "#002366",
-            "#CFB53B",
+            "#cfb53b",
             "#000000"
         ]
     },
@@ -3925,7 +3925,7 @@
         "name": "St. Anne Community High School",
         "colors": [
             "#ff0000",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "St. Charles (East)": {
@@ -3938,7 +3938,7 @@
     "St. Elmo": {
         "name": "St. Elmo High School",
         "colors": [
-            "#9BDDFF",
+            "#9bddff",
             "#ffffff",
             "#000080 "
         ]
@@ -3948,7 +3948,7 @@
         "colors": [
             "#800000",
             "#ffffff",
-            "#9BDDFF"
+            "#9bddff"
         ]
     },
     "Salem": {
@@ -3956,13 +3956,13 @@
         "colors": [
             "#008000 ",
             "#ffffff",
-            "#FF2400"
+            "#ff2400"
         ]
     },
     "Sandoval": {
         "name": "Sandoval High School",
         "colors": [
-            "#FF2400",
+            "#ff2400",
             "#000000"
         ]
     },
@@ -3978,21 +3978,21 @@
         "colors": [
             "#000000",
             "#ffffff",
-            "#228B22"
+            "#228b22"
         ]
     },
     "Scales Mound": {
         "name": "Scales Mound High School",
         "colors": [
-            "#4CBB17",
+            "#4cbb17",
             "#ffffff"
         ]
     },
     "Schaumburg (H.S.)": {
         "name": "Schaumburg High School",
         "colors": [
-            "#C41E3A",
-            "#FFD700"
+            "#c41e3a",
+            "#ffd700"
         ]
     },
     "Sciota (West Prairie)": {
@@ -4013,7 +4013,7 @@
         "name": "Serena High School",
         "colors": [
             "#800080",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Sesser (S.-Valier)": {
@@ -4041,7 +4041,7 @@
         "name": "Sherrard High School",
         "colors": [
             "#800080",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Sidell (Jamaica)": {
@@ -4077,13 +4077,13 @@
         "name": "Somonauk High School",
         "colors": [
             "#0000ff",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "South Beloit": {
         "name": "South Beloit High School",
         "colors": [
-            "#FF2400",
+            "#ff2400",
             "#ffffff"
         ]
     },
@@ -4092,14 +4092,14 @@
         "colors": [
             "#000000",
             "#ffffff",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "South Holland (Thornwood)": {
         "name": "Thornwood High School",
         "colors": [
             "#000080 ",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Sparta": {
@@ -4149,7 +4149,7 @@
     "Springfield (Sacred Heart-Griffin)": {
         "name": "Sacred Heart-Griffin High School",
         "colors": [
-            "#FFD700",
+            "#ffd700",
             "#000000"
         ]
     },
@@ -4165,13 +4165,13 @@
         "colors": [
             "#000080",
             "#ffffff",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Stanford (Olympia)": {
         "name": "Olympia High School",
         "colors": [
-            "#9BDDFF",
+            "#9bddff",
             "#000080 ",
             "#ffffff"
         ]
@@ -4194,7 +4194,7 @@
         "name": "Sterling High School",
         "colors": [
             "#000080 ",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Sterling (Newman Central Catholic)": {
@@ -4216,13 +4216,13 @@
         "name": "Stockton High School",
         "colors": [
             "#800000",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Strasburg (Stewardson-S.)": {
         "name": "Stewardson-Strasburg High School",
         "colors": [
-            "#228B22",
+            "#228b22",
             "#ffffff"
         ]
     },
@@ -4230,7 +4230,7 @@
         "name": "Streamwood High School",
         "colors": [
             "#000000",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Streator (Twp.)": {
@@ -4265,7 +4265,7 @@
         "name": "Sycamore High School",
         "colors": [
             "#000000",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "St. Charles (North)": {
@@ -4310,14 +4310,14 @@
         "name": "Taylorville High School",
         "colors": [
             "#800080",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Teutopolis": {
         "name": "Teutopolis High School",
         "colors": [
             "#000080",
-            "#CFB53B"
+            "#cfb53b"
         ]
     },
     "Thompsonville": {
@@ -4331,21 +4331,21 @@
         "name": "Andrew High School",
         "colors": [
             "#000000",
-            "#D9D919"
+            "#d9d919"
         ]
     },
     "Tinley Park (H.S.)": {
         "name": "Tinley Park High School",
         "colors": [
-            "#FF2400",
-            "#FFD700"
+            "#ff2400",
+            "#ffd700"
         ]
     },
     "Toledo (Cumberland)": {
         "name": "Cumberland High School",
         "colors": [
-            "#9BDDFF",
-            "#FFD700",
+            "#9bddff",
+            "#ffd700",
             "#ffffff",
             "#000000"
         ]
@@ -4383,13 +4383,13 @@
         "name": "Tuscola High School",
         "colors": [
             "#000000",
-            "#CFB53B"
+            "#cfb53b"
         ]
     },
     "Ullin (Century)": {
         "name": "Century High School",
         "colors": [
-            "#C41E3A",
+            "#c41e3a",
             "#ffffff"
         ]
     },
@@ -4412,7 +4412,7 @@
         "name": "Valmeyer High School",
         "colors": [
             "#800080",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Vandalia": {
@@ -4441,13 +4441,13 @@
         "name": "Villa Grove High School",
         "colors": [
             "#002366",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Villa Park (Willowbrook)": {
         "name": "Willowbrook High School",
         "colors": [
-            "#9BDDFF",
+            "#9bddff",
             "#c0c0c0"
         ]
     },
@@ -4476,7 +4476,7 @@
         "name": "Lincoln Charter School",
         "colors": [
             "#000080 ",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Villa Park (Islamic Foundation)": {
@@ -4505,7 +4505,7 @@
         "name": "Warrensburg-Latham High School",
         "colors": [
             "#ff0000",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Warsaw": {
@@ -4520,7 +4520,7 @@
         "name": "Lowpoint-Washburn High School",
         "colors": [
             "#800000",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Washington": {
@@ -4533,7 +4533,7 @@
     "Waterloo (Gibault Catholic)": {
         "name": "Gibault Catholic High School",
         "colors": [
-            "#C41E3A",
+            "#c41e3a",
             "#ffffff"
         ]
     },
@@ -4555,7 +4555,7 @@
         "name": "Wauconda High School",
         "colors": [
             "#800080",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Waverly": {
@@ -4577,8 +4577,8 @@
         "name": "Waukegan High School",
         "colors": [
             "#800080",
-            "#4CBB17",
-            "#FFD700"
+            "#4cbb17",
+            "#ffd700"
         ]
     },
     "West Chicago (H.S.)": {
@@ -4613,7 +4613,7 @@
         "name": "Westmont High School",
         "colors": [
             "#800020",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Westville": {
@@ -4627,7 +4627,7 @@
         "name": "Wheaton North High School",
         "colors": [
             "#002366",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Wheaton (St. Francis)": {
@@ -4648,7 +4648,7 @@
         "name": "Wheeling High School",
         "colors": [
             "#002366",
-            "#C5B358",
+            "#c5b358",
             "#ffffff"
         ]
     },
@@ -4670,14 +4670,14 @@
         "name": "Williamsville High School",
         "colors": [
             "#800080",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Wilmette (Loyola Academy)": {
         "name": "Loyola Academy",
         "colors": [
             "#800000",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Wilmette (Regina Dominican)": {
@@ -4705,7 +4705,7 @@
         "name": "Windsor High School",
         "colors": [
             "#0000ff",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Winnebago": {
@@ -4742,7 +4742,7 @@
         "name": "East Alton-Wood River High School",
         "colors": [
             "#800000",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Woodhull (AlWood)": {
@@ -4770,8 +4770,8 @@
     "Woodstock (Marian)": {
         "name": "Marian Central Catholic High School",
         "colors": [
-            "#C41E3A",
-            "#9BDDFF"
+            "#c41e3a",
+            "#9bddff"
         ]
     },
     "Woodstock (North)": {
@@ -4786,7 +4786,7 @@
         "name": "Cristo Rey St. Martin High School",
         "colors": [
             "#0000ff",
-            "#FFD700"
+            "#ffd700"
         ]
     },
     "Yorkville": {
