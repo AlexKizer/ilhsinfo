@@ -1,11 +1,4 @@
 {
-    "Addison (Driscoll)": {
-        "colors": [
-            "Black",
-            "Gold"
-        ],
-        "name": "Driscoll Catholic High School"
-    },
     "Albion (Edwards County)": {
         "colors": [
             "Red",
@@ -21,6 +14,13 @@
         ],
         "name": "Abingdon-Avon High School"
     },
+    "Addison (A. Trail)": {
+        "colors": [
+            "Navy Blue",
+            "White"
+        ],
+        "name": "Addison Trail High School"
+    },
     "Aledo (Mercer County)": {
         "colors": [
             "Navy Blue",
@@ -28,6 +28,13 @@
             "White"
         ],
         "name": "Mercer County High School"
+    },
+    "Altamont": {
+        "colors": [
+            "Orange",
+            "Black"
+        ],
+        "name": "Altamont High School"
     },
     "Algonquin (Jacobs)": {
         "colors": [
@@ -43,12 +50,12 @@
         ],
         "name": "Marquette Catholic High School"
     },
-    "Altamont": {
+    "Alton (Sr.)": {
         "colors": [
-            "Orange",
-            "Black"
+            "Red",
+            "Gray"
         ],
-        "name": "Altamont High School"
+        "name": "Alton Senior High School"
     },
     "Amboy": {
         "colors": [
@@ -57,13 +64,6 @@
             "Black"
         ],
         "name": "Amboy High School"
-    },
-    "Alton (Sr.)": {
-        "colors": [
-            "Red",
-            "Gray"
-        ],
-        "name": "Alton Senior High School"
     },
     "Anna (A.-Jonesboro)": {
         "colors": [
@@ -86,19 +86,19 @@
         ],
         "name": "Antioch Community High School"
     },
-    "Arcola": {
-        "colors": [
-            "Purple",
-            "White"
-        ],
-        "name": "Arcola High School"
-    },
     "Argenta (A.-Oreana)": {
         "colors": [
             "Orange",
             "Royal Blue"
         ],
         "name": "Argenta-Oreana High School"
+    },
+    "Arcola": {
+        "colors": [
+            "Purple",
+            "White"
+        ],
+        "name": "Arcola High School"
     },
     "Arlington Heights (Hersey)": {
         "colors": [
@@ -194,6 +194,13 @@
         ],
         "name": "Aurora Central Catholic High School"
     },
+    "Aurora (East)": {
+        "colors": [
+            "Red",
+            "Black"
+        ],
+        "name": "Aurora East High School"
+    },
     "Aurora (Illinois Math and Science Academy)": {
         "colors": [
             "Columbia Blue",
@@ -207,13 +214,6 @@
             "Blue"
         ],
         "name": "Marmion Academy"
-    },
-    "Aurora (East)": {
-        "colors": [
-            "Red",
-            "Black"
-        ],
-        "name": "Aurora East High School"
     },
     "Aurora (Rosary)": {
         "colors": [
@@ -259,14 +259,6 @@
         ],
         "name": "Christian Liberty Academy"
     },
-    "Barrington": {
-        "colors": [
-            "Scarlet",
-            "White",
-            "Black"
-        ],
-        "name": "Barrington High School"
-    },
     "Barry (Western)": {
         "colors": [
             "Red",
@@ -274,6 +266,14 @@
             "Black"
         ],
         "name": "Western High School"
+    },
+    "Barrington": {
+        "colors": [
+            "Scarlet",
+            "White",
+            "Black"
+        ],
+        "name": "Barrington High School"
     },
     "Bartonville (Limestone)": {
         "colors": [
@@ -317,19 +317,19 @@
         ],
         "name": "Althoff High School"
     },
-    "Belleville (East)": {
-        "colors": [
-            "Columbia Blue",
-            "Navy Blue"
-        ],
-        "name": "Belleville East High School"
-    },
     "Belleville (Governor French Academy)": {
         "colors": [
             "Navy Blue",
             "Kelly Green"
         ],
         "name": "Governor French Academy"
+    },
+    "Belleville (East)": {
+        "colors": [
+            "Columbia Blue",
+            "Navy Blue"
+        ],
+        "name": "Belleville East High School"
     },
     "Belleville (West)": {
         "colors": [
@@ -418,19 +418,19 @@
         ],
         "name": "Bloomington High School"
     },
-    "Bluffs": {
-        "colors": [
-            "Blue",
-            "White"
-        ],
-        "name": "Bluffs High School"
-    },
     "Blue Island (Eisenhower)": {
         "colors": [
             "Red",
             "White"
         ],
         "name": "Eisenhower High School"
+    },
+    "Bluffs": {
+        "colors": [
+            "Blue",
+            "White"
+        ],
+        "name": "Bluffs High School"
     },
     "Bluford (Webber)": {
         "colors": [
@@ -491,13 +491,6 @@
         ],
         "name": "Universal High School"
     },
-    "Brimfield": {
-        "colors": [
-            "Red",
-            "White"
-        ],
-        "name": "Brimfield High School"
-    },
     "Broadlands (Heritage)": {
         "colors": [
             "Navy",
@@ -505,6 +498,13 @@
             "Red"
         ],
         "name": "Heritage High School"
+    },
+    "Brimfield": {
+        "colors": [
+            "Red",
+            "White"
+        ],
+        "name": "Brimfield High School"
     },
     "Brownstown": {
         "colors": [
@@ -571,13 +571,6 @@
         ],
         "name": "St. Laurence High School"
     },
-    "Burlington (Central)": {
-        "colors": [
-            "Royal Blue",
-            "White"
-        ],
-        "name": "Central High School"
-    },
     "Bushnell (B.-Prairie City)": {
         "colors": [
             "Red",
@@ -586,12 +579,12 @@
         ],
         "name": "Bushnell-Prairie City High School"
     },
-    "Byron": {
+    "Burlington (Central)": {
         "colors": [
-            "Orange",
-            "Black"
+            "Royal Blue",
+            "White"
         ],
-        "name": "Byron High School"
+        "name": "Central High School"
     },
     "Bartlett": {
         "colors": [
@@ -600,6 +593,13 @@
             "White"
         ],
         "name": "Bartlett High School"
+    },
+    "Byron": {
+        "colors": [
+            "Orange",
+            "Black"
+        ],
+        "name": "Byron High School"
     },
     "Buckley (Christ Lutheran)": {
         "colors": [
@@ -630,20 +630,6 @@
         ],
         "name": "Aqsa School"
     },
-    "Cahokia (H.S.)": {
-        "colors": [
-            "Royal Blue",
-            "White"
-        ],
-        "name": "Cahokia High School"
-    },
-    "Cairo": {
-        "colors": [
-            "Royal Blue",
-            "White"
-        ],
-        "name": "Cairo High School"
-    },
     "Calumet City (Thornton Fractional North)": {
         "colors": [
             "Purple",
@@ -658,12 +644,20 @@
         ],
         "name": "Cambridge High School"
     },
-    "Campbell Hill (Trico)": {
+    "Cahokia (H.S.)": {
         "colors": [
-            "Blue",
-            "Gold"
+            "Royal Blue",
+            "White"
         ],
-        "name": "Trico High School"
+        "name": "Cahokia High School"
+    },
+    "Cairo": {
+        "colors": [
+            "Royal Blue",
+            "White",
+            "Black"
+        ],
+        "name": "Cairo High School"
     },
     "Camp Point (Central)": {
         "colors": [
@@ -671,6 +665,13 @@
             "Vegas Gold"
         ],
         "name": "Central High School"
+    },
+    "Campbell Hill (Trico)": {
+        "colors": [
+            "Blue",
+            "Gold"
+        ],
+        "name": "Trico High School"
     },
     "Canton": {
         "colors": [
@@ -888,6 +889,13 @@
         ],
         "name": "Central High School"
     },
+    "Clinton": {
+        "colors": [
+            "Maroon",
+            "Gold"
+        ],
+        "name": "Clinton High School"
+    },
     "Coal City": {
         "colors": [
             "Dark Green",
@@ -895,13 +903,6 @@
             "Gold"
         ],
         "name": "Coal City High School"
-    },
-    "Clinton": {
-        "colors": [
-            "Maroon",
-            "Gold"
-        ],
-        "name": "Clinton High School"
     },
     "Cobden": {
         "colors": [
@@ -932,19 +933,19 @@
         ],
         "name": "Columbia High School"
     },
-    "Coulterville": {
-        "colors": [
-            "Red",
-            "White"
-        ],
-        "name": "Coulterville High School"
-    },
     "Concord (Triopia)": {
         "colors": [
             "Columbia Blue",
             "White"
         ],
         "name": "Triopia High School"
+    },
+    "Coulterville": {
+        "colors": [
+            "Red",
+            "White"
+        ],
+        "name": "Coulterville High School"
     },
     "Country Club Hills (Hillcrest)": {
         "colors": [
@@ -954,19 +955,19 @@
         ],
         "name": "Hillcrest High School"
     },
-    "Cowden (C.-Herrick)": {
-        "colors": [
-            "Blue",
-            "Gold"
-        ],
-        "name": "Cowden-Herrick High School"
-    },
     "Crescent City (Crescent-Iroquois)": {
         "colors": [
             "Navy",
             "Silver"
         ],
         "name": "Crescent-Iroquois High School"
+    },
+    "Cowden (C.-Herrick)": {
+        "colors": [
+            "Blue",
+            "Gold"
+        ],
+        "name": "Cowden-Herrick High School"
     },
     "Crete (C.-Monee)": {
         "colors": [
@@ -1090,6 +1091,13 @@
         ],
         "name": "MacArthur High School"
     },
+    "Addison (Driscoll)": {
+        "colors": [
+            "Black",
+            "Gold"
+        ],
+        "name": "Driscoll Catholic High School"
+    },
     "Decatur (St. Teresa)": {
         "colors": [
             "Royal Blue",
@@ -1104,13 +1112,6 @@
         ],
         "name": "Deerfield High School"
     },
-    "DeKalb": {
-        "colors": [
-            "Orange",
-            "Black"
-        ],
-        "name": "DeKalb High School"
-    },
     "DeLand (D.-Weldon)": {
         "colors": [
             "Maroon",
@@ -1124,6 +1125,13 @@
             "White"
         ],
         "name": "Delavan High School"
+    },
+    "DeKalb": {
+        "colors": [
+            "Orange",
+            "Black"
+        ],
+        "name": "DeKalb High School"
     },
     "DePue": {
         "colors": [
@@ -1146,13 +1154,6 @@
         ],
         "name": "Dieterich High School"
     },
-    "Divernon": {
-        "colors": [
-            "Blue",
-            "Gold"
-        ],
-        "name": "Divernon High School"
-    },
     "Dixon (H.S.)": {
         "colors": [
             "Purple",
@@ -1160,13 +1161,12 @@
         ],
         "name": "Dixon High School"
     },
-    "Dolton (Thornridge)": {
+    "Divernon": {
         "colors": [
-            "Columbia Blue",
-            "Gray",
-            "Navy"
+            "Blue",
+            "Gold"
         ],
-        "name": "Thornridge High School"
+        "name": "Divernon High School"
     },
     "Dongola": {
         "colors": [
@@ -1239,12 +1239,6 @@
         ],
         "name": "Dwight High School"
     },
-    "DuQuoin (Christian Fellowship)": {
-        "colors": [
-            "Purple & White"
-        ],
-        "name": "Christian Fellowship School"
-    },
     "Decatur (D. Lutheran)": {
         "colors": [
             "Red",
@@ -1253,12 +1247,20 @@
         ],
         "name": "Lutheran School Association High School"
     },
-    "Addison (A. Trail)": {
+    "DuQuoin (Christian Fellowship)": {
         "colors": [
-            "Navy Blue",
+            "Purple",
             "White"
         ],
-        "name": "Addison Trail High School"
+        "name": "Christian Fellowship School"
+    },
+    "Dolton (Thornridge)": {
+        "colors": [
+            "Columbia Blue",
+            "Gray",
+            "Navy"
+        ],
+        "name": "Thornridge High School"
     },
     "Earlville": {
         "colors": [
@@ -1382,13 +1384,6 @@
         ],
         "name": "St. Edward High School"
     },
-    "Hanover (River Ridge)": {
-        "colors": [
-            "Navy Blue",
-            "Grey"
-        ],
-        "name": "River Ridge High School"
-    },
     "Elizabethtown (Hardin County)": {
         "colors": [
             "Red",
@@ -1397,12 +1392,12 @@
         ],
         "name": "Hardin County High School"
     },
-    "Elk Grove Village (E.G.)": {
+    "Hanover (River Ridge)": {
         "colors": [
-            "Forest Green",
-            "New Gold"
+            "Navy Blue",
+            "Grey"
         ],
-        "name": "Elk Grove High School"
+        "name": "River Ridge High School"
     },
     "Elkville (Elverado)": {
         "colors": [
@@ -1424,6 +1419,13 @@
             "White"
         ],
         "name": "Timothy Christian High School"
+    },
+    "Elk Grove Village (E.G.)": {
+        "colors": [
+            "Forest Green",
+            "New Gold"
+        ],
+        "name": "Elk Grove High School"
     },
     "Elmhurst (York)": {
         "colors": [
@@ -1475,19 +1477,19 @@
         ],
         "name": "Evanston Township High School"
     },
-    "Evergreen Park": {
-        "colors": [
-            "Green",
-            "Gray"
-        ],
-        "name": "Evergreen Park High School"
-    },
     "Elgin (Westminster Christian)": {
         "colors": [
             "Royal",
             "White"
         ],
         "name": "Westminster Christian High School"
+    },
+    "Evergreen Park": {
+        "colors": [
+            "Green",
+            "Gray"
+        ],
+        "name": "Evergreen Park High School"
     },
     "Evansville (Christ Our Savior Lutheran)": {
         "colors": [
@@ -1511,19 +1513,19 @@
         ],
         "name": "Prairie Central High School"
     },
-    "Fairfield": {
-        "colors": [
-            "Red",
-            "Black"
-        ],
-        "name": "Fairfield Community High School"
-    },
     "Farina (South Central)": {
         "colors": [
             "Silver",
             "Navy Blue"
         ],
         "name": "South Central High School"
+    },
+    "Fairfield": {
+        "colors": [
+            "Red",
+            "Black"
+        ],
+        "name": "Fairfield Community High School"
     },
     "Farmer City (Blue Ridge)": {
         "colors": [
@@ -1596,13 +1598,6 @@
         ],
         "name": "Franklin High School"
     },
-    "Freeport (Aquin)": {
-        "colors": [
-            "Blue",
-            "Gold"
-        ],
-        "name": "Aquin High School"
-    },
     "Freeburg": {
         "colors": [
             "Royal Blue",
@@ -1617,13 +1612,12 @@
         ],
         "name": "Freeport High School"
     },
-    "Fulton (Unity Christian)": {
+    "Freeport (Aquin)": {
         "colors": [
-            "Royal Blue",
-            "Gray",
-            "White"
+            "Blue",
+            "Gold"
         ],
-        "name": "Unity Christian High School"
+        "name": "Aquin High School"
     },
     "Fulton (H.S.)": {
         "colors": [
@@ -1632,18 +1626,27 @@
         ],
         "name": "Fulton High School"
     },
+    "Fulton (Unity Christian)": {
+        "colors": [
+            "Royal Blue",
+            "Gray",
+            "White"
+        ],
+        "name": "Unity Christian High School"
+    },
+    "Frankfort (Lincoln-Way East)": {
+        "colors": [
+            "Cobalt Blue",
+            "Black",
+            "White"
+        ],
+        "name": "Lincoln-Way East High School"
+    },
     "Forest Park (Proviso Math and Science Academy)": {
         "colors": [
             ""
         ],
         "name": ""
-    },
-    "Frankfort (Lincoln-Way North)": {
-        "colors": [
-            "Black",
-            "Vegas Gold"
-        ],
-        "name": "Lincoln-Way North High School"
     },
     "Forsyth (Decatur Christian)": {
         "colors": [
@@ -1651,13 +1654,12 @@
         ],
         "name": "Decatur Christian School"
     },
-    "Frankfort (Lincoln-Way East)": {
+    "Frankfort (Lincoln-Way North)": {
         "colors": [
-            "orado Ave. (Google map, other maps)\r\nColors: Cobalt Blue",
             "Black",
-            "White"
+            "Vegas Gold"
         ],
-        "name": "Lincoln-Way East High School"
+        "name": "Lincoln-Way North High School"
     },
     "Galatia": {
         "colors": [
@@ -1767,19 +1769,19 @@
         ],
         "name": "Glenbard South High School"
     },
-    "Glenview (Glenbrook South)": {
-        "colors": [
-            "Navy",
-            "Gold"
-        ],
-        "name": "Glenbrook South High School"
-    },
     "Glen Ellyn (Glenbard West)": {
         "colors": [
             "Forest Green",
             "White"
         ],
         "name": "Glenbard West High School"
+    },
+    "Glenview (Glenbrook South)": {
+        "colors": [
+            "Navy",
+            "Gold"
+        ],
+        "name": "Glenbrook South High School"
     },
     "Golconda (Pope County)": {
         "colors": [
@@ -1795,14 +1797,6 @@
         ],
         "name": "Goreville High School"
     },
-    "Granite City": {
-        "colors": [
-            "Red",
-            "Black",
-            "White"
-        ],
-        "name": "Granite City High School"
-    },
     "Grant Park": {
         "colors": [
             "Green",
@@ -1816,6 +1810,14 @@
             "Gold"
         ],
         "name": "Putnam County High School"
+    },
+    "Granite City": {
+        "colors": [
+            "Red",
+            "Black",
+            "White"
+        ],
+        "name": "Granite City High School"
     },
     "Grayslake (Central)": {
         "colors": [
@@ -2044,6 +2046,13 @@
         ],
         "name": "Shiloh High School"
     },
+    "Hutsonville": {
+        "colors": [
+            "Orange",
+            "Black"
+        ],
+        "name": "Hutsonville High School"
+    },
     "Huntley": {
         "colors": [
             "Red",
@@ -2052,20 +2061,6 @@
         ],
         "name": "Huntley High School"
     },
-    "Hutsonville": {
-        "colors": [
-            "Orange",
-            "Black"
-        ],
-        "name": "Hutsonville High School"
-    },
-    "Jacksonville (H.S.)": {
-        "colors": [
-            "Scarlet",
-            "White"
-        ],
-        "name": "Jacksonville High School"
-    },
     "Jacksonville (Illinois School for the Deaf)": {
         "colors": [
             "Orange",
@@ -2073,6 +2068,13 @@
             "White"
         ],
         "name": "Illinois School for the Deaf"
+    },
+    "Jacksonville (H.S.)": {
+        "colors": [
+            "Scarlet",
+            "White"
+        ],
+        "name": "Jacksonville High School"
     },
     "Jacksonville (Illinois School for the Visually Impaired)": {
         "colors": [
@@ -2110,13 +2112,6 @@
         ],
         "name": "Johnston City High School"
     },
-    "Joliet (Central)": {
-        "colors": [
-            "Royal",
-            "Gold"
-        ],
-        "name": "Joliet Central High School"
-    },
     "Joliet (Catholic Academy)": {
         "colors": [
             "Columbia Blue",
@@ -2124,6 +2119,13 @@
             "White"
         ],
         "name": "Joliet Catholic Academy"
+    },
+    "Joliet (Central)": {
+        "colors": [
+            "Royal",
+            "Gold"
+        ],
+        "name": "Joliet Central High School"
     },
     "Joppa (J.-Maple Grove)": {
         "colors": [
@@ -2231,6 +2233,14 @@
         ],
         "name": "Lyons Township High School"
     },
+    "LaGrange Park (Nazareth Academy)": {
+        "colors": [
+            "Columbia Blue",
+            "Navy",
+            "White"
+        ],
+        "name": "Nazareth Academy"
+    },
     "LaHarpe": {
         "colors": [
             "Purple",
@@ -2244,14 +2254,6 @@
             "Orange"
         ],
         "name": "Lake Forest Academy"
-    },
-    "LaGrange Park (Nazareth Academy)": {
-        "colors": [
-            "Columbia Blue",
-            "Navy",
-            "White"
-        ],
-        "name": "Nazareth Academy"
     },
     "Lake Forest (H.S.)": {
         "colors": [
@@ -2267,6 +2269,13 @@
         ],
         "name": "Woodlands Academy"
     },
+    "Lanark (Eastland)": {
+        "colors": [
+            "Royal Blue",
+            "Orange"
+        ],
+        "name": "Eastland High School"
+    },
     "Lake Zurich": {
         "colors": [
             "Royal Blue",
@@ -2281,21 +2290,6 @@
         ],
         "name": "LaMoille High School"
     },
-    "Lanark (Eastland)": {
-        "colors": [
-            "Royal Blue",
-            "Orange"
-        ],
-        "name": "Eastland High School"
-    },
-    "Lansing (Illiana Christian)": {
-        "colors": [
-            "Green",
-            "White",
-            "Black"
-        ],
-        "name": "Illiana Christian High School"
-    },
     "Lansing (Luther East)": {
         "colors": [
             "Black",
@@ -2309,6 +2303,14 @@
             "Gray"
         ],
         "name": "Thornton Fractional South High School"
+    },
+    "Lansing (Illiana Christian)": {
+        "colors": [
+            "Green",
+            "White",
+            "Black"
+        ],
+        "name": "Illiana Christian High School"
     },
     "LaSalle (L.-Peru)": {
         "colors": [
@@ -2380,13 +2382,6 @@
             "White"
         ],
         "name": "Lexington High School"
-    },
-    "Liberty": {
-        "colors": [
-            "Red",
-            "White"
-        ],
-        "name": "Liberty High School"
     },
     "Libertyville": {
         "colors": [
@@ -2495,6 +2490,20 @@
         ],
         "name": "Lakes Community High School"
     },
+    "Liberty": {
+        "colors": [
+            "Red",
+            "White"
+        ],
+        "name": "Liberty High School"
+    },
+    "Macomb": {
+        "colors": [
+            "Orange",
+            "Black"
+        ],
+        "name": "Macomb High School"
+    },
     "Mackinaw (Deer Creek-M.)": {
         "colors": [
             "Red",
@@ -2508,13 +2517,6 @@
             "Black"
         ],
         "name": "Harlem High School"
-    },
-    "Macomb": {
-        "colors": [
-            "Orange",
-            "Black"
-        ],
-        "name": "Macomb High School"
     },
     "Macon (Meridian)": {
         "colors": [
@@ -2624,13 +2626,6 @@
         ],
         "name": "Illini Central High School"
     },
-    "Mattoon": {
-        "colors": [
-            "Green",
-            "Gold"
-        ],
-        "name": "Mattoon High School"
-    },
     "Maywood (Proviso East)": {
         "colors": [
             "Royal Blue",
@@ -2688,34 +2683,12 @@
         ],
         "name": "Metamora High School"
     },
-    "Metropolis (Massac County)": {
-        "colors": [
-            "Red",
-            "White",
-            "Blue"
-        ],
-        "name": "Massac County High School"
-    },
     "Midlothian (Bremen)": {
         "colors": [
             "Red",
             "Gray"
         ],
         "name": "Bremen High School"
-    },
-    "Milford": {
-        "colors": [
-            "Blue",
-            "White"
-        ],
-        "name": "Milford High School"
-    },
-    "Milledgeville": {
-        "colors": [
-            "Orange",
-            "Black"
-        ],
-        "name": "Milledgeville High School"
     },
     "Minonk (Fieldcrest)": {
         "colors": [
@@ -2753,6 +2726,13 @@
         ],
         "name": "Monmouth-Roseville High School"
     },
+    "Mattoon": {
+        "colors": [
+            "Green",
+            "Gold"
+        ],
+        "name": "Mattoon High School"
+    },
     "Monmouth (United)": {
         "colors": [
             "Red",
@@ -2760,13 +2740,6 @@
             "White"
         ],
         "name": "United High School"
-    },
-    "Monmouth (Yorkwood)": {
-        "colors": [
-            "Purple",
-            "Gold"
-        ],
-        "name": "Yorkwood High School"
     },
     "Monticello": {
         "colors": [
@@ -2789,13 +2762,6 @@
         ],
         "name": "Morris High School"
     },
-    "Morrisonville": {
-        "colors": [
-            "Scarlet Red",
-            "Grey"
-        ],
-        "name": "Morrisonville High School"
-    },
     "Morrison": {
         "colors": [
             "Red",
@@ -2803,12 +2769,34 @@
         ],
         "name": "Morrison High School"
     },
-    "Morton": {
+    "Metropolis (Massac County)": {
         "colors": [
-            "Cherry",
+            "Red",
+            "White",
+            "Blue"
+        ],
+        "name": "Massac County High School"
+    },
+    "Milford": {
+        "colors": [
+            "Blue",
+            "White"
+        ],
+        "name": "Milford High School"
+    },
+    "Monmouth (Yorkwood)": {
+        "colors": [
+            "Purple",
+            "Gold"
+        ],
+        "name": "Yorkwood High School"
+    },
+    "Morrisonville": {
+        "colors": [
+            "Scarlet Red",
             "Grey"
         ],
-        "name": "Morton High School"
+        "name": "Morrisonville High School"
     },
     "Mounds (Meridian)": {
         "colors": [
@@ -2817,6 +2805,13 @@
             "Grey"
         ],
         "name": "Meridian High School"
+    },
+    "Morton": {
+        "colors": [
+            "Cherry",
+            "Grey"
+        ],
+        "name": "Morton High School"
     },
     "Mt. Carmel": {
         "colors": [
@@ -2832,19 +2827,19 @@
         ],
         "name": "Mt. Olive High School"
     },
-    "Mt. Prospect (Prospect)": {
-        "colors": [
-            "Navy Blue",
-            "Columbia Blue"
-        ],
-        "name": "Prospect High School"
-    },
     "Mt. Pulaski": {
         "colors": [
             "Purple",
             "Gold"
         ],
         "name": "Mt. Pulaski High School"
+    },
+    "Mt. Prospect (Prospect)": {
+        "colors": [
+            "Navy Blue",
+            "Columbia Blue"
+        ],
+        "name": "Prospect High School"
     },
     "Mt. Sterling (Brown County)": {
         "colors": [
@@ -2860,6 +2855,13 @@
             "Black"
         ],
         "name": "Mt. Vernon High School"
+    },
+    "Milledgeville": {
+        "colors": [
+            "Orange",
+            "Black"
+        ],
+        "name": "Milledgeville High School"
     },
     "Mt. Zion": {
         "colors": [
@@ -2891,26 +2893,12 @@
         ],
         "name": "Carmel Catholic High School"
     },
-    "Mundelein (H.S.)": {
-        "colors": [
-            "Scarlet",
-            "Gray"
-        ],
-        "name": "Mundelein High School"
-    },
     "Murphysboro": {
         "colors": [
             "Crimson",
             "Corn"
         ],
         "name": "Murphysboro High School"
-    },
-    "Deerfield (Chicagoland Jewish)": {
-        "colors": [
-            "Blue",
-            "White"
-        ],
-        "name": "Chicagoland Jewish High School"
     },
     "Crystal Lake (Faith Lutheran)": {
         "colors": [
@@ -2919,11 +2907,33 @@
         ],
         "name": "Faith Lutheran High School"
     },
+    "Deerfield (Chicagoland Jewish)": {
+        "colors": [
+            "Blue",
+            "White"
+        ],
+        "name": "Chicagoland Jewish High School"
+    },
     "Richton Park (Southland College Prep Charter)": {
         "colors": [
-            "Maroon and White"
+            "Maroon",
+            "White"
         ],
         "name": "Southland College Prep Charter High School"
+    },
+    "Mundelein (H.S.)": {
+        "colors": [
+            "Scarlet",
+            "Gray"
+        ],
+        "name": "Mundelein High School"
+    },
+    "Nauvoo (N.-Colusa)": {
+        "colors": [
+            "Black",
+            "White"
+        ],
+        "name": "Nauvoo-Colusa High School"
     },
     "Naperville (Central)": {
         "colors": [
@@ -2946,13 +2956,6 @@
             "Red"
         ],
         "name": "Nashville Community High School"
-    },
-    "Nauvoo (N.-Colusa)": {
-        "colors": [
-            "Black",
-            "White"
-        ],
-        "name": "Nauvoo-Colusa High School"
     },
     "Neoga": {
         "colors": [
@@ -3054,19 +3057,19 @@
         ],
         "name": "Normal Community High School"
     },
-    "Normal (Community West)": {
-        "colors": [
-            "Black",
-            "Orange"
-        ],
-        "name": "Normal West High School"
-    },
     "Normal (University)": {
         "colors": [
             "Green",
             "Gold"
         ],
         "name": "University High School"
+    },
+    "Normal (Community West)": {
+        "colors": [
+            "Black",
+            "Orange"
+        ],
+        "name": "Normal West High School"
     },
     "Norridge (Ridgewood)": {
         "colors": [
@@ -3096,19 +3099,19 @@
         ],
         "name": "Glenbrook North High School"
     },
-    "Naperville (Neuqua Valley)": {
-        "colors": [
-            "Navy",
-            "Gold"
-        ],
-        "name": "Neuqua Valley High School"
-    },
     "Franklin Park-Northlake (Leyden)": {
         "colors": [
             "Blue",
             "Gold"
         ],
         "name": "Leyden High School"
+    },
+    "Naperville (Neuqua Valley)": {
+        "colors": [
+            "Navy",
+            "Gold"
+        ],
+        "name": "Neuqua Valley High School"
     },
     "Plainfield (Christ Lutheran Academy)": {
         "colors": [
@@ -3117,12 +3120,6 @@
         ],
         "name": "Christ Lutheran Academy"
     },
-    "Normal (Calvary Christian Academy)": {
-        "colors": [
-            "Blue, Red, White"
-        ],
-        "name": "Calvary Christian Academy"
-    },
     "New Lenox (Lincoln-Way West)": {
         "colors": [
             "Black",
@@ -3130,6 +3127,14 @@
             "White"
         ],
         "name": "Lincoln-Way West High School"
+    },
+    "Normal (Calvary Christian Academy)": {
+        "colors": [
+            "Blue",
+            "Red",
+            "White"
+        ],
+        "name": "Calvary Christian Academy"
     },
     "Northfield (Christian Heritage Academy)": {
         "colors": [
@@ -3344,19 +3349,19 @@
         ],
         "name": "Shepard High School"
     },
-    "Palos Hills (Stagg)": {
-        "colors": [
-            "Navy Blue",
-            "Burnt Orange"
-        ],
-        "name": "Stagg High School"
-    },
     "Pana (H.S.)": {
         "colors": [
             "Orange",
             "Blue"
         ],
         "name": "Pana High School"
+    },
+    "Palos Hills (Stagg)": {
+        "colors": [
+            "Navy Blue",
+            "Burnt Orange"
+        ],
+        "name": "Stagg High School"
     },
     "Paris": {
         "colors": [
@@ -3379,13 +3384,6 @@
         ],
         "name": "Maine East High School"
     },
-    "Paw Paw": {
-        "colors": [
-            "Purple",
-            "Gold"
-        ],
-        "name": "Paw Paw High School"
-    },
     "Park Ridge (Maine South)": {
         "colors": [
             "Red",
@@ -3394,13 +3392,6 @@
         ],
         "name": "Maine South High School"
     },
-    "Patoka": {
-        "colors": [
-            "Green",
-            "Gold"
-        ],
-        "name": "Patoka High School"
-    },
     "Pawnee": {
         "colors": [
             "Red",
@@ -3408,6 +3399,20 @@
             "Blue"
         ],
         "name": "Pawnee High School"
+    },
+    "Patoka": {
+        "colors": [
+            "Green",
+            "Gold"
+        ],
+        "name": "Patoka High School"
+    },
+    "Paw Paw": {
+        "colors": [
+            "Purple",
+            "Gold"
+        ],
+        "name": "Paw Paw High School"
     },
     "Paxton (P.-Buckley-Loda)": {
         "colors": [
@@ -3431,19 +3436,19 @@
         ],
         "name": "Pearl City High School"
     },
-    "Pecatonica": {
-        "colors": [
-            "Purple",
-            "Vegas Gold"
-        ],
-        "name": "Pecatonica High School"
-    },
     "Pekin": {
         "colors": [
             "Red",
             "White"
         ],
         "name": "Pekin High School"
+    },
+    "Pecatonica": {
+        "colors": [
+            "Purple",
+            "Vegas Gold"
+        ],
+        "name": "Pecatonica High School"
     },
     "Peoria (H.S.)": {
         "colors": [
@@ -3580,19 +3585,19 @@
         ],
         "name": "North Boone High School"
     },
-    "Princeton": {
-        "colors": [
-            "Blue",
-            "Grey"
-        ],
-        "name": "Princeton High School"
-    },
     "Port Byron (Riverdale)": {
         "colors": [
             "Black",
             "Gold"
         ],
         "name": "Riverdale High School"
+    },
+    "Princeton": {
+        "colors": [
+            "Blue",
+            "Grey"
+        ],
+        "name": "Princeton High School"
     },
     "Princeville": {
         "colors": [
@@ -3601,17 +3606,10 @@
         ],
         "name": "Princeville High School"
     },
-    "Plainfield (South)": {
-        "colors": [
-            "Navy Blue",
-            "White"
-        ],
-        "name": "Plainfield South High School"
-    },
     "Prophetstown": {
         "colors": [
             "Orange",
-            "Black - Red",
+            "Red",
             "Black"
         ],
         "name": "Prophetstown High School"
@@ -3624,12 +3622,12 @@
         ],
         "name": "Peoria Christian High School"
     },
-    "Plainfield (East)": {
+    "Plainfield (South)": {
         "colors": [
-            "Orange",
-            "Green"
+            "Navy Blue",
+            "White"
         ],
-        "name": "Plainfield East High School"
+        "name": "Plainfield South High School"
     },
     "Plainfield (North)": {
         "colors": [
@@ -3639,9 +3637,18 @@
         ],
         "name": "Plainfield North High School"
     },
+    "Plainfield (East)": {
+        "colors": [
+            "Orange",
+            "Green"
+        ],
+        "name": "Plainfield East High School"
+    },
     "Peoria (Quest Charter Academy)": {
         "colors": [
-            "Blue-Orange-Black"
+            "Blue",
+            "Orange",
+            "Black"
         ],
         "name": "Quest Charter Academy"
     },
@@ -3901,25 +3908,17 @@
         ],
         "name": "Keith Country Day School"
     },
-    "Rockford (Legacy Academy of Excellence Charter)": {
-        "colors": [
-            ""
-        ],
-        "name": "Legacy Academy of Excellence Charter School"
-    },
     "Rockford (Our Lady of the Sacred Heart)": {
         "colors": [
             ""
         ],
         "name": "Our Lady of the Sacred Heart Academy"
     },
-    "Troy (Triad)": {
+    "Rockford (Legacy Academy of Excellence Charter)": {
         "colors": [
-            "Black ",
-            "White,",
-            "Red"
+            ""
         ],
-        "name": "Triad High School"
+        "name": "Legacy Academy of Excellence Charter School"
     },
     "St. Anne": {
         "colors": [
@@ -3942,6 +3941,14 @@
             "Navy"
         ],
         "name": "St. Elmo High School"
+    },
+    "Troy (Triad)": {
+        "colors": [
+            "Black ",
+            "White,",
+            "Red"
+        ],
+        "name": "Triad High School"
     },
     "St. Joseph (S.J.-Ogden)": {
         "colors": [
@@ -3981,13 +3988,6 @@
         ],
         "name": "West Carroll High School"
     },
-    "Scales Mound": {
-        "colors": [
-            "Kelly Green",
-            "White"
-        ],
-        "name": "Scales Mound High School"
-    },
     "Schaumburg (H.S.)": {
         "colors": [
             "Cardinal Red",
@@ -4001,6 +4001,13 @@
             "Silver"
         ],
         "name": "West Prairie High School"
+    },
+    "Scales Mound": {
+        "colors": [
+            "Kelly Green",
+            "White"
+        ],
+        "name": "Scales Mound High School"
     },
     "Seneca": {
         "colors": [
@@ -4153,13 +4160,6 @@
         ],
         "name": "Sacred Heart-Griffin High School"
     },
-    "Springfield (Ursuline)": {
-        "colors": [
-            "Red",
-            "White"
-        ],
-        "name": "Ursuline Academy"
-    },
     "Springfield (Southeast)": {
         "colors": [
             "Navy Blue",
@@ -4167,6 +4167,13 @@
             "Gold"
         ],
         "name": "Springfield Southeast High School"
+    },
+    "Springfield (Ursuline)": {
+        "colors": [
+            "Red",
+            "White"
+        ],
+        "name": "Ursuline Academy"
     },
     "Stanford (Olympia)": {
         "colors": [
@@ -4211,13 +4218,6 @@
             "Black"
         ],
         "name": "Stillman Valley High School"
-    },
-    "Stockton": {
-        "colors": [
-            "Maroon",
-            "Gold"
-        ],
-        "name": "Stockton High School"
     },
     "Strasburg (Stewardson-S.)": {
         "colors": [
@@ -4283,6 +4283,13 @@
         ],
         "name": "South Elgin High School"
     },
+    "Stockton": {
+        "colors": [
+            "Maroon",
+            "Gold"
+        ],
+        "name": "Stockton High School"
+    },
     "Table Grove (VIT)": {
         "colors": [
             "White",
@@ -4290,6 +4297,13 @@
             "Green"
         ],
         "name": "VIT High School"
+    },
+    "Taylor Ridge (Rockridge)": {
+        "colors": [
+            "Maroon",
+            "White"
+        ],
+        "name": "Rockridge High School"
     },
     "Tamms (Egyptian)": {
         "colors": [
@@ -4299,12 +4313,12 @@
         ],
         "name": "Egyptian High School"
     },
-    "Taylor Ridge (Rockridge)": {
+    "Teutopolis": {
         "colors": [
-            "Maroon",
-            "White"
+            "Navy Blue",
+            "Old Gold"
         ],
-        "name": "Rockridge High School"
+        "name": "Teutopolis High School"
     },
     "Taylorville": {
         "colors": [
@@ -4313,19 +4327,21 @@
         ],
         "name": "Taylorville High School"
     },
-    "Teutopolis": {
-        "colors": [
-            "Navy Blue",
-            "Old Gold"
-        ],
-        "name": "Teutopolis High School"
-    },
     "Thompsonville": {
         "colors": [
             "Blue",
             "White"
         ],
         "name": "Thompsonville High School"
+    },
+    "Toledo (Cumberland)": {
+        "colors": [
+            "Columbia Blue",
+            "Gold",
+            "White",
+            "Black"
+        ],
+        "name": "Cumberland High School"
     },
     "Tinley Park (Andrew)": {
         "colors": [
@@ -4340,15 +4356,6 @@
             "Gold"
         ],
         "name": "Tinley Park High School"
-    },
-    "Toledo (Cumberland)": {
-        "colors": [
-            "Columbia Blue",
-            "Gold",
-            "White",
-            "Black"
-        ],
-        "name": "Cumberland High School"
     },
     "Tolono (Unity)": {
         "colors": [
@@ -4453,7 +4460,8 @@
     },
     "Virden (North Mac)": {
         "colors": [
-            "Black & Carolina Blue"
+            "Black",
+            "Carolina Blue"
         ],
         "name": "North Mac High School"
     },
@@ -4558,6 +4566,14 @@
         ],
         "name": "Wauconda High School"
     },
+    "Waukegan (H.S.)": {
+        "colors": [
+            "Purple",
+            "Kelly Green",
+            "Gold"
+        ],
+        "name": "Waukegan High School"
+    },
     "Waverly": {
         "colors": [
             "Black",
@@ -4573,14 +4589,6 @@
         ],
         "name": "Wayne City High School"
     },
-    "Waukegan (H.S.)": {
-        "colors": [
-            "Purple",
-            "Kelly Green",
-            "Gold"
-        ],
-        "name": "Waukegan High School"
-    },
     "West Chicago (H.S.)": {
         "colors": [
             "Navy Blue",
@@ -4588,19 +4596,19 @@
         ],
         "name": "West Chicago Community High School"
     },
-    "West Frankfort (Frankfort)": {
-        "colors": [
-            "Red",
-            "Gray"
-        ],
-        "name": "Frankfort Community High School"
-    },
     "West Chicago (Wheaton Academy)": {
         "colors": [
             "Maroon",
             "White"
         ],
         "name": "Wheaton Academy"
+    },
+    "West Frankfort (Frankfort)": {
+        "colors": [
+            "Red",
+            "Gray"
+        ],
+        "name": "Frankfort Community High School"
     },
     "Westchester (St. Joseph)": {
         "colors": [
@@ -4623,19 +4631,19 @@
         ],
         "name": "Westville High School"
     },
-    "Wheaton (North)": {
-        "colors": [
-            "Royal Blue",
-            "Gold"
-        ],
-        "name": "Wheaton North High School"
-    },
     "Wheaton (St. Francis)": {
         "colors": [
             "Blue",
             "White"
         ],
         "name": "St. Francis High School"
+    },
+    "Wheaton (North)": {
+        "colors": [
+            "Royal Blue",
+            "Gold"
+        ],
+        "name": "Wheaton North High School"
     },
     "Wheaton (W. Warrenville South)": {
         "colors": [
@@ -4673,19 +4681,19 @@
         ],
         "name": "Williamsville High School"
     },
-    "Wilmette (Loyola Academy)": {
-        "colors": [
-            "Maroon",
-            "Gold"
-        ],
-        "name": "Loyola Academy"
-    },
     "Wilmette (Regina Dominican)": {
         "colors": [
             "Black",
             "White"
         ],
         "name": "Regina Dominican High School"
+    },
+    "Wilmette (Loyola Academy)": {
+        "colors": [
+            "Maroon",
+            "Gold"
+        ],
+        "name": "Loyola Academy"
     },
     "Wilmington": {
         "colors": [
@@ -4774,6 +4782,13 @@
         ],
         "name": "Marian Central Catholic High School"
     },
+    "Waukegan (Cristo Rey St. Martin)": {
+        "colors": [
+            "blue",
+            "gold"
+        ],
+        "name": "Cristo Rey St. Martin High School"
+    },
     "Woodstock (North)": {
         "colors": [
             "Black",
@@ -4782,19 +4797,19 @@
         ],
         "name": "Woodstock North High School"
     },
-    "Waukegan (Cristo Rey St. Martin)": {
-        "colors": [
-            "blue",
-            "gold"
-        ],
-        "name": "Cristo Rey St. Martin High School"
-    },
     "Yorkville": {
         "colors": [
             "Red",
             "White"
         ],
         "name": "Yorkville High School"
+    },
+    "Zeigler (Z.-Royalton)": {
+        "colors": [
+            "Navy",
+            "White"
+        ],
+        "name": "Zeigler-Royalton High School"
     },
     "Zion (Z.-Benton)": {
         "colors": [
@@ -4803,11 +4818,1286 @@
         ],
         "name": "Zion-Benton High School"
     },
-    "Zeigler (Z.-Royalton)": {
+    "Chicago (Agricultural Science)": {
+        "colors": [
+            "Green",
+            "Gold"
+        ],
+        "name": "Agricultural Science High School"
+    },
+    "Chicago (Amundsen)": {
+        "colors": [
+            "Red",
+            "Gray"
+        ],
+        "name": "Amundsen High School"
+    },
+    "Chicago (Bogan)": {
+        "colors": [
+            "Orange",
+            "White",
+            "Black"
+        ],
+        "name": "Bogan Computer Technical High School"
+    },
+    "Chicago (Austin Polytechnic)": {
+        "colors": [
+            "Maroon",
+            "White"
+        ],
+        "name": "Austin Polytechnic High School"
+    },
+    "Chicago (Bowen)": {
+        "colors": [
+            "Purple",
+            "Gold"
+        ],
+        "name": "Bowen High School"
+    },
+    "Chicago (C. Vocational)": {
+        "colors": [
+            "Navy Blue",
+            "Gold"
+        ],
+        "name": "Chicago Vocational High School"
+    },
+    "Chicago (Calumet)": {
+        "colors": [
+            "Maroon",
+            "Blue"
+        ],
+        "name": "Calumet High School"
+    },
+    "Chicago (Carver Military Academy)": {
+        "colors": [
+            "Kelly Green",
+            "Greenbay Gold"
+        ],
+        "name": "Carver Military Academy"
+    },
+    "Chicago (Clemente)": {
+        "colors": [
+            "Blue",
+            "Gold"
+        ],
+        "name": "Clemente High School"
+    },
+    "Chicago (Collins)": {
+        "colors": [
+            "Purple",
+            "Gold"
+        ],
+        "name": "Collins High School"
+    },
+    "Chicago (Corliss)": {
+        "colors": [
+            "Black",
+            "Gold"
+        ],
+        "name": "Corliss High School"
+    },
+    "Chicago (Crane)": {
+        "colors": [
+            "Red",
+            "Blue",
+            "White"
+        ],
+        "name": "Crane High School"
+    },
+    "Chicago (Curie)": {
+        "colors": [
+            "Red",
+            "White",
+            "Blue"
+        ],
+        "name": "Curie Metropolitan High School"
+    },
+    "Chicago (Englewood)": {
+        "colors": [
+            "Purple",
+            "White"
+        ],
+        "name": "Englewood High School"
+    },
+    "Chicago (Dunbar)": {
+        "colors": [
+            "Blue",
+            "Gold"
+        ],
+        "name": "Dunbar High School"
+    },
+    "Chicago (DuSable)": {
+        "colors": [
+            "Red",
+            "Black"
+        ],
+        "name": "DuSable Leadership Academy"
+    },
+    "Chicago (Farragut)": {
+        "colors": [
+            "Blue",
+            "Gold"
+        ],
+        "name": "Farragut High School"
+    },
+    "Chicago (Fenger)": {
+        "colors": [
+            "Red",
+            "Green"
+        ],
+        "name": "Fenger High School"
+    },
+    "Chicago (Foreman)": {
+        "colors": [
+            "Blue",
+            "Gold"
+        ],
+        "name": "Foreman High School"
+    },
+    "Chicago (Gage Park)": {
+        "colors": [
+            "Maroon",
+            "White"
+        ],
+        "name": "Gage Park High School"
+    },
+    "Chicago (Harlan)": {
+        "colors": [
+            "Columbia Blue",
+            "White"
+        ],
+        "name": "Harlan High School"
+    },
+    "Chicago (Harper)": {
+        "colors": [
+            "Red",
+            "White",
+            "Black"
+        ],
+        "name": "Harper High School"
+    },
+    "Chicago (Hirsch)": {
+        "colors": [
+            "Maroon",
+            "White"
+        ],
+        "name": "Hirsch High School"
+    },
+    "Chicago (Jones)": {
         "colors": [
             "Navy",
             "White"
         ],
-        "name": "Zeigler-Royalton High School"
+        "name": "Jones College Prep"
+    },
+    "Chicago (Hubbard)": {
+        "colors": [
+            "Scarlet Red",
+            "Silver",
+            "White"
+        ],
+        "name": "Hubbard High School"
+    },
+    "Chicago (Hyde Park)": {
+        "colors": [
+            "Navy Blue",
+            "White"
+        ],
+        "name": "Hyde Park Academy High School"
+    },
+    "Chicago (Juarez)": {
+        "colors": [
+            "Brown",
+            "Gold"
+        ],
+        "name": "Juarez High School"
+    },
+    "Chicago (Julian)": {
+        "colors": [
+            "Orange",
+            "Brown"
+        ],
+        "name": "Julian High School"
+    },
+    "Chicago (Kelly)": {
+        "colors": [
+            "Kelly Green",
+            "White"
+        ],
+        "name": "Kelly High School"
+    },
+    "Chicago (Kelvyn Park)": {
+        "colors": [
+            "Black",
+            "Gold"
+        ],
+        "name": "Kelvyn Park High School"
+    },
+    "Chicago (Kennedy)": {
+        "colors": [
+            "Blue",
+            "Gold"
+        ],
+        "name": "Kennedy High School"
+    },
+    "Chicago (Kenwood)": {
+        "colors": [
+            "Columbia Blue",
+            "Red"
+        ],
+        "name": "Kenwood High School"
+    },
+    "Chicago (King)": {
+        "colors": [
+            "Black",
+            "Gold"
+        ],
+        "name": "King College Prep High School"
+    },
+    "Chicago (Lake View)": {
+        "colors": [
+            "Red",
+            "White"
+        ],
+        "name": "Lake View High School"
+    },
+    "Chicago (Lane)": {
+        "colors": [
+            "Myrtle Green",
+            "Old Gold"
+        ],
+        "name": "Lane Tech High School"
+    },
+    "Chicago (Lincoln Park)": {
+        "colors": [
+            "Royal Blue",
+            "Gold"
+        ],
+        "name": "Lincoln Park High School"
+    },
+    "Chicago (Lindblom)": {
+        "colors": [
+            "Maroon",
+            "Gold"
+        ],
+        "name": "Lindblom Math and Science Academy"
+    },
+    "Chicago (Manley)": {
+        "colors": [
+            "Black",
+            "Red"
+        ],
+        "name": "Manley Career Academy High School"
+    },
+    "Chicago (Marshall)": {
+        "colors": [
+            "Maroon",
+            "Gold"
+        ],
+        "name": "Marshall High School"
+    },
+    "Chicago (Mather)": {
+        "colors": [
+            "Royal Blue",
+            "White"
+        ],
+        "name": "Mather High School"
+    },
+    "Chicago (Morgan Park)": {
+        "colors": [
+            "Forest Green",
+            "White"
+        ],
+        "name": "Morgan Park High School"
+    },
+    "Chicago (Orr)": {
+        "colors": [
+            "Black",
+            "Gold"
+        ],
+        "name": "Orr Academy High School"
+    },
+    "Chicago (Phillips)": {
+        "colors": [
+            "Royal Blue",
+            "White"
+        ],
+        "name": "Wendell Phillips Academy High School"
+    },
+    "Chicago (Prosser)": {
+        "colors": [
+            "Royal Blue",
+            "Gold"
+        ],
+        "name": "Prosser High School"
+    },
+    "Chicago (Richards)": {
+        "colors": [
+            "Royal Blue",
+            "White"
+        ],
+        "name": "Richards High School"
+    },
+    "Chicago (Robeson)": {
+        "colors": [
+            "Scarlet",
+            "Black",
+            "Gold"
+        ],
+        "name": "Robeson High School"
+    },
+    "Chicago (Roosevelt)": {
+        "colors": [
+            "Blue",
+            "Gold"
+        ],
+        "name": "Roosevelt High School"
+    },
+    "Chicago (Schurz)": {
+        "colors": [
+            "Purple",
+            "Gold"
+        ],
+        "name": "Schurz High School"
+    },
+    "Chicago (Senn)": {
+        "colors": [
+            "Forest Green",
+            "White"
+        ],
+        "name": "Senn High School"
+    },
+    "Chicago (Simeon)": {
+        "colors": [
+            "Blue",
+            "Gold"
+        ],
+        "name": "Simeon High School"
+    },
+    "Chicago (South Shore)": {
+        "colors": [
+            "Royal Blue",
+            "Kelly Green"
+        ],
+        "name": "South Shore High School"
+    },
+    "Chicago (Spalding)": {
+        "colors": [
+            "Blue",
+            "Gold"
+        ],
+        "name": "Spalding High School"
+    },
+    "Chicago (Steinmetz)": {
+        "colors": [
+            "Silver",
+            "Dark Green"
+        ],
+        "name": "Steinmetz High School"
+    },
+    "Chicago (Sullivan)": {
+        "colors": [
+            "Blue",
+            "Gold"
+        ],
+        "name": "Sullivan High School"
+    },
+    "Chicago (Taft)": {
+        "colors": [
+            "Silver",
+            "Blue"
+        ],
+        "name": "Taft High School"
+    },
+    "Chicago (Tilden)": {
+        "colors": [
+            "Blue",
+            "Gold"
+        ],
+        "name": "Tilden High School"
+    },
+    "Chicago (Von Steuben)": {
+        "colors": [
+            "Silver",
+            "Scarlet"
+        ],
+        "name": "Von Steuben High School"
+    },
+    "Chicago (Washington)": {
+        "colors": [
+            "NAVY",
+            "RED",
+            "WHITE"
+        ],
+        "name": "Washington High School"
+    },
+    "Chicago (Wells)": {
+        "colors": [
+            "Royal Blue",
+            "Silver"
+        ],
+        "name": "Wells High School"
+    },
+    "Chicago (Westinghouse)": {
+        "colors": [
+            "Green",
+            "Gold"
+        ],
+        "name": "Westinghouse High School"
+    },
+    "Chicago (Whitney Young)": {
+        "colors": [
+            "Orange",
+            "Navy"
+        ],
+        "name": "Whitney Young Magnet High School"
+    },
+    "Chicago (Brooks)": {
+        "colors": [
+            "Royal Blue",
+            "White"
+        ],
+        "name": "Gwendolyn Brooks College Prep High School"
+    },
+    "Chicago (Best Practice)": {
+        "colors": [
+            "Light Blue",
+            "White"
+        ],
+        "name": "Best Practice High School"
+    },
+    "Chicago (Hancock)": {
+        "colors": [
+            "Burgundy",
+            "Silver"
+        ],
+        "name": "Hancock High School"
+    },
+    "Chicago (Northside)": {
+        "colors": [
+            "Maroon",
+            "Silver"
+        ],
+        "name": "Northside College Prepatory High School"
+    },
+    "Chicago (Hope)": {
+        "colors": [
+            "Blue",
+            "Gold"
+        ],
+        "name": "John Hope College Prep"
+    },
+    "Chicago (Dyett)": {
+        "colors": [
+            "Black",
+            "Gold",
+            "White"
+        ],
+        "name": "Dyett High School"
+    },
+    "Chicago (Noble Street Charter)": {
+        "colors": [
+            "Blue",
+            "Maroon",
+            "Gold"
+        ],
+        "name": "Noble Street Charter High School"
+    },
+    "Chicago (Perspectives Charter/Joslin)": {
+        "colors": [
+            "Royal Blue",
+            "White",
+            "Grey"
+        ],
+        "name": "Perspectives-Joslin Campus"
+    },
+    "Chicago (Payton)": {
+        "colors": [
+            "Navy Blue",
+            "Orange"
+        ],
+        "name": "Walter Payton College Prep High School"
+    },
+    "Chicago (C. Military Academy-Bronzeville)": {
+        "colors": [
+            "Green",
+            "gold"
+        ],
+        "name": "Chicago Military Academy -- Bronzeville"
+    },
+    "Chicago (CICS/Longwood)": {
+        "colors": [
+            "Blue",
+            "Gray"
+        ],
+        "name": "Chicago International Charter School-Longwood"
+    },
+    "Chicago (CICS/Northtown)": {
+        "colors": [
+            "Navy Blue",
+            "Gold"
+        ],
+        "name": "Chicago International Charter School-Northtown Academy"
+    },
+    "Chicago (C. Discovery Academy)": {
+        "colors": [
+            "Gray",
+            "Blue"
+        ],
+        "name": "Chicago Discovery Academy"
+    },
+    "Chicago (Phoenix Military Academy)": {
+        "colors": [
+            "Black",
+            "Red"
+        ],
+        "name": "Phoenix Military Academy"
+    },
+    "Chicago (Environmental Studies Academy)": {
+        "colors": [
+            ""
+        ],
+        "name": "Environmental Studies Academy"
+    },
+    "Chicago (ACT Charter)": {
+        "colors": [
+            "Purple",
+            "Teal"
+        ],
+        "name": "ACT Charter School"
+    },
+    "Chicago (Clark)": {
+        "colors": [
+            "Black",
+            "Gold"
+        ],
+        "name": "Michele Clark Academic Preparatory High School"
+    },
+    "Chicago (Vines)": {
+        "colors": [
+            "Blue",
+            "White"
+        ],
+        "name": "Mose Vines High School"
+    },
+    "Chicago (ACE Tech Charter)": {
+        "colors": [
+            "Blue",
+            "Gold"
+        ],
+        "name": "ACE Technical Charter School"
+    },
+    "Chicago (Raby)": {
+        "colors": [
+            "Black",
+            "Red",
+            "Gray"
+        ],
+        "name": "Al Raby School for Community and Environment"
+    },
+    "Chicago (C. Academy)": {
+        "colors": [
+            "Navy Blue",
+            "Gray"
+        ],
+        "name": "Chicago Academy High School"
+    },
+    "Chicago (Rickover Naval Academy)": {
+        "colors": [
+            "Navy Blue",
+            "Vegas Gold"
+        ],
+        "name": "Rickover Naval Academy"
+    },
+    "Chicago (CICS/Ellison)": {
+        "colors": [
+            "Navy",
+            "Orange"
+        ],
+        "name": "Chicago International Charter School-Ellison"
+    },
+    "Chicago (North Grand)": {
+        "colors": [
+            "Maroon",
+            "Gold",
+            "Baby Blue"
+        ],
+        "name": "North Grand High School"
+    },
+    "Chicago (Douglass)": {
+        "colors": [
+            "Blue",
+            "Gold"
+        ],
+        "name": "Frederick A. Douglass Academy"
+    },
+    "Chicago (Bronzeville Scholastic)": {
+        "colors": [
+            "Black",
+            "Red"
+        ],
+        "name": "Bronzeville Scholastic Institute"
+    },
+    "Chicago (Little Village)": {
+        "colors": [
+            "Orange",
+            "Grey"
+        ],
+        "name": "Little Village High School"
+    },
+    "Chicago (Big Picture)": {
+        "colors": [
+            "Purple",
+            "White"
+        ],
+        "name": "Big Picture High School"
+    },
+    "Chicago (Uplift)": {
+        "colors": [
+            "Cardinal",
+            "Vegas Gold"
+        ],
+        "name": "Uplift Community High School"
+    },
+    "Chicago (Urban Prep Charter/Englewood)": {
+        "colors": [
+            "Red",
+            "Gold"
+        ],
+        "name": "Urban Prep Charter Academy for Young Men - Englewood Campus"
+    },
+    "Chicago (C. Math and Science Charter)": {
+        "colors": [
+            "Navy Blue",
+            "Gold"
+        ],
+        "name": "Chicago Math and Science Academy"
+    },
+    "Chicago (Marine Military Academy)": {
+        "colors": [
+            "Scarlet",
+            "Gold"
+        ],
+        "name": "Marine Math & Science Academy"
+    },
+    "Chicago (Noble Street Charter/Pritzker)": {
+        "colors": [
+            "Blue",
+            "Orange"
+        ],
+        "name": "Pritzker College Prep High School"
+    },
+    "Chicago (Brother Rice)": {
+        "colors": [
+            "Maroon",
+            "Burnt Orange"
+        ],
+        "name": "Brother Rice High School"
+    },
+    "Chicago (De La Salle)": {
+        "colors": [
+            "Royal Blue",
+            "Gold"
+        ],
+        "name": "De La Salle Institute"
+    },
+    "Chicago (F.W. Parker)": {
+        "colors": [
+            "Blue",
+            "White"
+        ],
+        "name": "Francis W. Parker School"
+    },
+    "Chicago (Gordon Tech)": {
+        "colors": [
+            "Orange",
+            "Gray"
+        ],
+        "name": "Gordon Tech High School"
+    },
+    "Chicago (Hales Franciscan)": {
+        "colors": [
+            "Scarlet",
+            "White"
+        ],
+        "name": "Hales Franciscan High School"
+    },
+    "Chicago (Holy Trinity)": {
+        "colors": [
+            "Royal Blue",
+            "Gold"
+        ],
+        "name": "Holy Trinity High School"
+    },
+    "Chicago (Ida Crown)": {
+        "colors": [
+            "Blue",
+            "White",
+            "Red"
+        ],
+        "name": "Ida Crown High School"
+    },
+    "Chicago (Josephinum)": {
+        "colors": [
+            "Blue",
+            "Gold"
+        ],
+        "name": "Josephinum High School"
+    },
+    "Chicago (Leo)": {
+        "colors": [
+            "Orange",
+            "Black"
+        ],
+        "name": "Leo High School"
+    },
+    "Chicago (Luther South)": {
+        "colors": [
+            "Red",
+            "White"
+        ],
+        "name": "Luther High School South"
+    },
+    "Chicago (Luther North)": {
+        "colors": [
+            "Navy",
+            "Gold"
+        ],
+        "name": "Luther North College Prep"
+    },
+    "Chicago (Maria)": {
+        "colors": [
+            "Blue",
+            "Gold"
+        ],
+        "name": "Maria High School"
+    },
+    "Chicago (Marist)": {
+        "colors": [
+            "Red",
+            "White"
+        ],
+        "name": "Marist High School"
+    },
+    "Chicago (Morgan Park Academy)": {
+        "colors": [
+            "Maroon",
+            "Ivory"
+        ],
+        "name": "Morgan Park Academy"
+    },
+    "Chicago (Mother McAuley)": {
+        "colors": [
+            "Red",
+            "White",
+            "Gold"
+        ],
+        "name": "Mother McAuley High School"
+    },
+    "Chicago (Notre Dame)": {
+        "colors": [
+            "Columbia Blue",
+            "White",
+            "Navy"
+        ],
+        "name": "Notre Dame High School"
+    },
+    "Chicago (Our Lady of Tepeyac)": {
+        "colors": [
+            "Blue",
+            "White"
+        ],
+        "name": "Our Lady of Tepeyac High School"
+    },
+    "Chicago (Mt. Carmel)": {
+        "colors": [
+            "Brown",
+            "White"
+        ],
+        "name": "Mt. Carmel High School"
+    },
+    "Chicago (Quigley Prep)": {
+        "colors": [
+            "Blue",
+            "White"
+        ],
+        "name": "Quigley Prep High School"
+    },
+    "Chicago (Providence-St. Mel)": {
+        "colors": [
+            "Purple",
+            "Gold",
+            "White"
+        ],
+        "name": "Providence-St. Mel High School"
+    },
+    "Chicago (Resurrection)": {
+        "colors": [
+            "Red",
+            "White"
+        ],
+        "name": "Resurrection High School"
+    },
+    "Chicago (St. Francis de Sales)": {
+        "colors": [
+            "Navy Blue",
+            "Gold"
+        ],
+        "name": "St. Francis de Sales High School"
+    },
+    "Chicago (St. Benedict)": {
+        "colors": [
+            "Maroon",
+            "Gold"
+        ],
+        "name": "St. Benedict High School"
+    },
+    "Chicago (St. Gregory)": {
+        "colors": [
+            "Red",
+            "White",
+            "Royal Blue",
+            "Gray"
+        ],
+        "name": "St. Gregory High School"
+    },
+    "Chicago (St. Ignatius College Prep)": {
+        "colors": [
+            "Maroon",
+            "Gold"
+        ],
+        "name": "St. Ignatius College Prep"
+    },
+    "Chicago (St. Patrick)": {
+        "colors": [
+            "Green",
+            "Gold"
+        ],
+        "name": "St. Patrick High School"
+    },
+    "Chicago (St. Rita)": {
+        "colors": [
+            "Red",
+            "Blue"
+        ],
+        "name": "St. Rita High School"
+    },
+    "Chicago (St. Scholastica Academy)": {
+        "colors": [
+            "Navy",
+            "White"
+        ],
+        "name": "St. Scholastica Academy"
+    },
+    "Chicago (University)": {
+        "colors": [
+            "Maroon",
+            "White"
+        ],
+        "name": "University High School"
+    },
+    "Chicago (Latin)": {
+        "colors": [
+            "Navy",
+            "Orange"
+        ],
+        "name": "Latin School of Chicago"
+    },
+    "Chicago (Academy for the Arts)": {
+        "colors": [
+            "Black",
+            "White"
+        ],
+        "name": "Academy for the Arts"
+    },
+    "Chicago (Academy of Scholastic Achievement Charter)": {
+        "colors": [
+            ""
+        ],
+        "name": "Academy of Scholastic Achievement"
+    },
+    "Chicago (North Lawndale Charter)": {
+        "colors": [
+            "Red",
+            "Gold",
+            "White"
+        ],
+        "name": "North Lawndale College Prep High School"
+    },
+    "Chicago (Cristo Rey Jesuit)": {
+        "colors": [
+            "Maroon",
+            "Gold"
+        ],
+        "name": "Cristo Rey Jesuit High School"
+    },
+    "Chicago (Waldorf)": {
+        "colors": [
+            "Purple",
+            "Cardinal",
+            "Gold"
+        ],
+        "name": "Waldorf High School"
+    },
+    "was Urban Prep Charter/Bronzeville -- now 2944": {
+        "colors": [
+            "Red",
+            "Vegas Gold"
+        ],
+        "name": "-----"
+    },
+    "was Catalyst Charter/Maria -- now 2945": {
+        "colors": [
+            "Royal Blue",
+            "White",
+            "Orange"
+        ],
+        "name": "-----"
+    },
+    "Chicago (C. Hope Academy)": {
+        "colors": [
+            "Navy Blue",
+            "White"
+        ],
+        "name": "Chicago Hope Academy"
+    },
+    "Chicago (Christ the King)": {
+        "colors": [
+            "Gold",
+            "Maroon"
+        ],
+        "name": "Christ the King  Jesuit College Preparatory School"
+    },
+    "Chicago (Noble Street Charter/Rowe-Clark)": {
+        "colors": [
+            "Gold",
+            "Sky Blue",
+            "Navy"
+        ],
+        "name": "Rowe-Clark Math & Science Academy"
+    },
+    "Chicago (Noble Street Charter/Golder)": {
+        "colors": [
+            "Purple",
+            "Silver"
+        ],
+        "name": "Golder College Prep High School"
+    },
+    "Chicago (Noble Street Charter/Rauner)": {
+        "colors": [
+            "Navy Blue",
+            "White"
+        ],
+        "name": "Rauner College Prep High School"
+    },
+    "Chicago (Las Casas)": {
+        "colors": [
+            ""
+        ],
+        "name": "Las Casas High School"
+    },
+    "Chicago (Perspectives Charter/Leadership)": {
+        "colors": [
+            "Maroon",
+            "Columbia Blue",
+            "White"
+        ],
+        "name": "Perspectives Leadership Academy"
+    },
+    "Chicago (Perspectives Charter/Technology)": {
+        "colors": [
+            "Maroon",
+            "Columbia Blue",
+            "White"
+        ],
+        "name": "Perspectives High School of Technology"
+    },
+    "Chicago (UCCS/Woodlawn)": {
+        "colors": [
+            "Maroon",
+            "Navy"
+        ],
+        "name": "University of Chicago Charter School-Woodlawn"
+    },
+    "Chicago (Noble Street Charter/Comer)": {
+        "colors": [
+            "Dark Green",
+            "White",
+            "Gray"
+        ],
+        "name": "Gary Comer College Prep High School"
+    },
+    "Chicago (Noble Street Charter/UIC)": {
+        "colors": [
+            "Red",
+            "Navy Blue"
+        ],
+        "name": "UIC College Prep High School"
+    },
+    "Chicago (Austin Business and Entrepreneurship)": {
+        "colors": [
+            ""
+        ],
+        "name": "Austin Business and Entrepreneurship High School"
+    },
+    "Chicago (Perspectives Charter/IIT Math & Science)": {
+        "colors": [
+            "Grey",
+            "Red",
+            "Black"
+        ],
+        "name": "Perspectives-IIT Math and Science Academy"
+    },
+    "Chicago (TEAM Englewood)": {
+        "colors": [
+            "Purple",
+            "White",
+            "Black"
+        ],
+        "name": "TEAM Englewood High School"
+    },
+    "Chicago (Aspira Charter/Early College)": {
+        "colors": [
+            "Blue",
+            "White"
+        ],
+        "name": "Aspira/Early College High School"
+    },
+    "Chicago (Aspira/Mirta Ramirez)": {
+        "colors": [
+            ""
+        ],
+        "name": ""
+    },
+    "Chicago (Ford Power House Charter)": {
+        "colors": [
+            "Royal",
+            "Kelly Green"
+        ],
+        "name": "Henry Ford Power House Charter High School"
+    },
+    "Chicago (Collins Academy)": {
+        "colors": [
+            "Purple",
+            "Gold"
+        ],
+        "name": "Collins Academy High School"
+    },
+    "Chicago (Ogden International)": {
+        "colors": [
+            "Green",
+            "Gray",
+            "White"
+        ],
+        "name": "Ogden International School of Chicago"
+    },
+    "Chicago (C. Talent Development Charter)": {
+        "colors": [
+            "Maroon",
+            "Silver"
+        ],
+        "name": "Chicago Talent Development Charter High School"
+    },
+    "Chicago (Westinghouse College Prep)": {
+        "colors": [
+            "Kelly Green",
+            "Gold"
+        ],
+        "name": "Westinghouse College Prep"
+    },
+    "Chicago (Young Women's Leadership Charter)": {
+        "colors": [
+            "navy blue",
+            "white"
+        ],
+        "name": "Young Women's Leadership Charter School"
+    },
+    "Chicago (VOISE Academy)": {
+        "colors": [
+            ""
+        ],
+        "name": "VOISE Academy"
+    },
+    "Chicago (Noble Street Charter/C. Bulls)": {
+        "colors": [
+            "Red",
+            "Black",
+            "White"
+        ],
+        "name": "Chicago Bulls College Prep High School"
+    },
+    "Chicago (Noble Street Charter/Muchin)": {
+        "colors": [
+            "Teal",
+            "Gray",
+            "Black"
+        ],
+        "name": "Muchin College Prep High School"
+    },
+    "Chicago (Aspira Charter/Ramirez)": {
+        "colors": [
+            ""
+        ],
+        "name": "Aspira/Ramirez Computer Science Charter School"
+    },
+    "Chicago (Urban Prep Charter/West)": {
+        "colors": [
+            "Red",
+            "Vegas Gold"
+        ],
+        "name": "Urban Prep Academy -- West Campus"
+    },
+    "Chicago (Noble Street Charter/Johnson)": {
+        "colors": [
+            "Navy Blue", 
+            "White",
+            "Red"
+        ],
+        "name": "Johnson College Prep High School"
+    },
+    "Chicago (UNO Charter/Garcia)": {
+        "colors": [
+            ""
+        ],
+        "name": "UNO-Garcia Charter High School"
+    },
+    "Chicago (Alcott)": {
+        "colors": [
+            "Black",
+            "White"
+        ],
+        "name": "Alcott High School"
+    },
+    "Chicago (CICS/Hawkins)": {
+        "colors": [
+            "carolina blue",
+            "white",
+            "navy"
+        ],
+        "name": "CICS/Larry Hawkins Charter High School"
+    },
+    "Chicago (EPIC Academy Charter)": {
+        "colors": [
+            "Green",
+            "Purple"
+        ],
+        "name": "EPIC Academy"
+    },
+    "Chicago (Solorio Academy)": {
+        "colors": [
+            "Maroon",
+            "Gold"
+        ],
+        "name": "Eric Solorio Academy"
+    },
+    "Chicago (Spry Community Links)": {
+        "colors": [
+            ""
+        ],
+        "name": "Spry Community Links High School"
+    },
+    "Chicago (Noble Street Charter/DRW Trading)": {
+        "colors": [
+            ""
+        ],
+        "name": "DRW Trading College Prep High School"
+    },
+    "Chicago (South Shore International College Prep)": {
+        "colors": [
+            "Kelly green",
+            "Royal blue"
+        ],
+        "name": "South Shore International College Prep"
+    },
+    "Chicago (Instituto Health Science Charter)": {
+        "colors": [
+            "Green",
+            "Blue"
+        ],
+        "name": "Instituto Health Science Career Academy"
+    },
+    "Chicago (Noble Street Charter/Hansberry)": {
+        "colors": [
+            "Maroon",
+            "Silver"
+        ],
+        "name": "Hansberry Prep High School"
+    },
+    "Chicago (DeVry Advantage Academy)": {
+        "colors": [
+            ""
+        ],
+        "name": "DeVry Advantage Academy"
+    },
+    "Chicago (Amandla Charter)": {
+        "colors": [
+            "Black",
+            "Gold",
+            "White"
+        ],
+        "name": "Amandla Charter School"
+    },
+    "Chicago (Noble Street Charter/Baker)": {
+        "colors": [
+            ""
+        ],
+        "name": "Ella Baker College Prep High School"
+    },
+    "Chicago (Disney)": {
+        "colors": [
+            "Blue",
+            "Yellow"
+        ],
+        "name": "Disney II High School"
+    },
+    "Chicago (Noble Street Charter/Butler)": {
+        "colors": [
+            ""
+        ],
+        "name": "Butler College Prep High School"
+    },
+    "Chicago (Catalyst Charter/Maria)": {
+        "colors": [
+            "Royal Blue",
+            "White",
+            "Orange"
+        ],
+        "name": "Catalyst Maria High School"
+    },
+    "Chicago (Urban Prep Charter/Bronzeville)": {
+        "colors": [
+            "Red",
+            "Vegas Gold"
+        ],
+        "name": "Urban Prep Charter - Bronzeville Campus"
+    },
+    "Chicago (Legal Prep Charter Academy)": {
+        "colors": [
+            ""
+        ],
+        "name": "Legal Prep Charter Academy"
+    },
+    "Chicago (Air Force Academy)": {
+        "colors": [
+            "Silver",
+            "Blue"
+        ],
+        "name": "Air Force Academy"
+    },
+    "Chicago (Crane Medical Prep)": {
+        "colors": [
+            "Red",
+            "White",
+            "Blue"
+        ],
+        "name": "Crane Medical Prep High School"
+    },
+    "Chicago (C. Tech Academy Charter)": {
+        "colors": [
+            "Purple",
+            "Black",
+            "White"
+        ],
+        "name": "Chicago Tech Academy"
     }
 }
